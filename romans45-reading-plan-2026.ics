@@ -1,0 +1,3291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Romans45 Daily Reading Plan (ESV links)//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-01-01-54b56f33bfb14db7bdb246fe078a7da8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Bible Reading — Jan 1
+DESCRIPTION:OT: Ge 1-2\nPsalm: 1\nProverbs: 1:1-7\nNT: Mt 1\nESV: https://www.esv.org/Genesis+1-2\;Psalm+1\;Proverbs+1:1-7\;Matthew+1
+URL:https://www.esv.org/Genesis+1-2;Psalm+1;Proverbs+1:1-7;Matthew+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-02-cce8094cae354a0a88e3d53c052b27e0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Bible Reading — Jan 2
+DESCRIPTION:OT: Ge 3-4\nPsalm: 2:1-6\nProverbs: 1:8-9\nNT: Mt 2\nESV: https://www.esv.org/Genesis+3-4\;Psalm+2:1-6\;Proverbs+1:8-9\;Matthew+2
+URL:https://www.esv.org/Genesis+3-4;Psalm+2:1-6;Proverbs+1:8-9;Matthew+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-03-a0beb12ea37d4ab2a807a58da06a2de3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Bible Reading — Jan 3
+DESCRIPTION:OT: Ge 5-6\nPsalm: 2:7-12\nProverbs: 1:10-19\nNT: Mt 3\nESV: https://www.esv.org/Genesis+5-6\;Psalm+2:7-12\;Proverbs+1:10-19\;Matthew+3
+URL:https://www.esv.org/Genesis+5-6;Psalm+2:7-12;Proverbs+1:10-19;Matthew+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-04-a0ba264eb5444e2cb507774f3b0fbac8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:Bible Reading — Jan 4
+DESCRIPTION:OT: Ge 7-8\nPsalm: 3:1-4\nProverbs: 1:20-22\nNT: Mt 4\nESV: https://www.esv.org/Genesis+7-8\;Psalm+3:1-4\;Proverbs+1:20-22\;Matthew+4
+URL:https://www.esv.org/Genesis+7-8;Psalm+3:1-4;Proverbs+1:20-22;Matthew+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-05-cb7d89a24ae34bc988f26437f4caf01a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Bible Reading — Jan 5
+DESCRIPTION:OT: Ge 9-10\nPsalm: 3:5-8\nProverbs: 1:23-27\nNT: Mt 5:1-26\nESV: https://www.esv.org/Genesis+9-10\;Psalm+3:5-8\;Proverbs+1:23-27\;Matthew+5:1-26
+URL:https://www.esv.org/Genesis+9-10;Psalm+3:5-8;Proverbs+1:23-27;Matthew+5:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-06-bad83398f2c14c09808e42e739a2c198@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Bible Reading — Jan 6
+DESCRIPTION:OT: Ge 11-12\nPsalm: 4:1-3\nProverbs: 1:28-33\nNT: Mt 5:27-48\nESV: https://www.esv.org/Genesis+11-12\;Psalm+4:1-3\;Proverbs+1:28-33\;Matthew+5:27-48
+URL:https://www.esv.org/Genesis+11-12;Psalm+4:1-3;Proverbs+1:28-33;Matthew+5:27-48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-07-8bfa184132ff4acca2666b8585b7f90d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Bible Reading — Jan 7
+DESCRIPTION:OT: Ge 13-14\nPsalm: 4:4-8\nProverbs: 2:1-5\nNT: Mt 6:1-18\nESV: https://www.esv.org/Genesis+13-14\;Psalm+4:4-8\;Proverbs+2:1-5\;Matthew+6:1-18
+URL:https://www.esv.org/Genesis+13-14;Psalm+4:4-8;Proverbs+2:1-5;Matthew+6:1-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-08-770c9db8640246e2b2dd283dffbd0077@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Bible Reading — Jan 8
+DESCRIPTION:OT: Ge 15-16\nPsalm: 5:1-7\nProverbs: 2:6-9\nNT: Mt 6:19-34\nESV: https://www.esv.org/Genesis+15-16\;Psalm+5:1-7\;Proverbs+2:6-9\;Matthew+6:19-34
+URL:https://www.esv.org/Genesis+15-16;Psalm+5:1-7;Proverbs+2:6-9;Matthew+6:19-34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-558b1b0a057e435d8c4d3e80f8abbd38@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Bible Reading — Jan 9
+DESCRIPTION:OT: Ge 17-18\nPsalm: 5:8-12\nProverbs: 2:10-22\nNT: Mt 7\nESV: https://www.esv.org/Genesis+17-18\;Psalm+5:8-12\;Proverbs+2:10-22\;Matthew+7
+URL:https://www.esv.org/Genesis+17-18;Psalm+5:8-12;Proverbs+2:10-22;Matthew+7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-50c4e74aa6c943549de3cb847e017f1e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Bible Reading — Jan 10
+DESCRIPTION:OT: Ge 19-20\nPsalm: 6:1-5\nProverbs: 3:1-4\nNT: Mt 8:1-17\nESV: https://www.esv.org/Genesis+19-20\;Psalm+6:1-5\;Proverbs+3:1-4\;Matthew+8:1-17
+URL:https://www.esv.org/Genesis+19-20;Psalm+6:1-5;Proverbs+3:1-4;Matthew+8:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-11-b0f479de986944af99aeb0e03f64f39b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:Bible Reading — Jan 11
+DESCRIPTION:OT: Ge 21-22\nPsalm: 6:6-10\nProverbs: 3:5-6\nNT: Mt 8:18-34\nESV: https://www.esv.org/Genesis+21-22\;Psalm+6:6-10\;Proverbs+3:5-6\;Matthew+8:18-34
+URL:https://www.esv.org/Genesis+21-22;Psalm+6:6-10;Proverbs+3:5-6;Matthew+8:18-34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-12-b9ca8699beac41a9b9f36dbd98f081d6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Bible Reading — Jan 12
+DESCRIPTION:OT: Ge 23-24\nPsalm: 7:1-5\nProverbs: 3:7-8\nNT: Mt 9:1-17\nESV: https://www.esv.org/Genesis+23-24\;Psalm+7:1-5\;Proverbs+3:7-8\;Matthew+9:1-17
+URL:https://www.esv.org/Genesis+23-24;Psalm+7:1-5;Proverbs+3:7-8;Matthew+9:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-13-513e61a64ba04771b093fabb1b0f855f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Bible Reading — Jan 13
+DESCRIPTION:OT: Ge 25-26\nPsalm: 7:6-8\nProverbs: 3:9-10\nNT: Mt 9:18-38\nESV: https://www.esv.org/Genesis+25-26\;Psalm+7:6-8\;Proverbs+3:9-10\;Matthew+9:18-38
+URL:https://www.esv.org/Genesis+25-26;Psalm+7:6-8;Proverbs+3:9-10;Matthew+9:18-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-14-8a9912b08a4842ff89fa30d6adf9d60d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Bible Reading — Jan 14
+DESCRIPTION:OT: Ge 27-28\nPsalm: 7:9-17\nProverbs: 3:11-12\nNT: Mt 10:1-20\nESV: https://www.esv.org/Genesis+27-28\;Psalm+7:9-17\;Proverbs+3:11-12\;Matthew+10:1-20
+URL:https://www.esv.org/Genesis+27-28;Psalm+7:9-17;Proverbs+3:11-12;Matthew+10:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-15-3f35e1368ed24f9ca22605a9a1370d62@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Bible Reading — Jan 15
+DESCRIPTION:OT: Ge 29-30\nPsalm: 8:1-5\nProverbs: 3:13-18\nNT: Mt 10:21-42\nESV: https://www.esv.org/Genesis+29-30\;Psalm+8:1-5\;Proverbs+3:13-18\;Matthew+10:21-42
+URL:https://www.esv.org/Genesis+29-30;Psalm+8:1-5;Proverbs+3:13-18;Matthew+10:21-42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-16-14d9ea8af428452f996e5ded15fba3db@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Bible Reading — Jan 16
+DESCRIPTION:OT: Ge 31-32\nPsalm: 8:6-9\nProverbs: 3:19-20\nNT: Mt 11\nESV: https://www.esv.org/Genesis+31-32\;Psalm+8:6-9\;Proverbs+3:19-20\;Matthew+11
+URL:https://www.esv.org/Genesis+31-32;Psalm+8:6-9;Proverbs+3:19-20;Matthew+11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-0f4b944b16e446db8e12ac39eedd6937@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Bible Reading — Jan 17
+DESCRIPTION:OT: Ge 33-34\nPsalm: 9:1-5\nProverbs: 3:21-26\nNT: Mt 12:1-21\nESV: https://www.esv.org/Genesis+33-34\;Psalm+9:1-5\;Proverbs+3:21-26\;Matthew+12:1-21
+URL:https://www.esv.org/Genesis+33-34;Psalm+9:1-5;Proverbs+3:21-26;Matthew+12:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-18-67f7f9287bd243fcb993db0c8a2432a0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:Bible Reading — Jan 18
+DESCRIPTION:OT: Ge 35-36\nPsalm: 9:6-10\nProverbs: 3:27-30\nNT: Mt 12:22-50\nESV: https://www.esv.org/Genesis+35-36\;Psalm+9:6-10\;Proverbs+3:27-30\;Matthew+12:22-50
+URL:https://www.esv.org/Genesis+35-36;Psalm+9:6-10;Proverbs+3:27-30;Matthew+12:22-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-19-39ab6257875940ab8878f3481578a710@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Bible Reading — Jan 19
+DESCRIPTION:OT: Ge 37-38\nPsalm: 9:11-20\nProverbs: 3:31-35\nNT: Mt 13:1-30\nESV: https://www.esv.org/Genesis+37-38\;Psalm+9:11-20\;Proverbs+3:31-35\;Matthew+13:1-30
+URL:https://www.esv.org/Genesis+37-38;Psalm+9:11-20;Proverbs+3:31-35;Matthew+13:1-30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-20-dd99fb61135445e3b7d2f4f7e6f57a74@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Bible Reading — Jan 20
+DESCRIPTION:OT: Ge 39-40\nPsalm: 10:1-11\nProverbs: 4:1-6\nNT: Mt 13:31-58\nESV: https://www.esv.org/Genesis+39-40\;Psalm+10:1-11\;Proverbs+4:1-6\;Matthew+13:31-58
+URL:https://www.esv.org/Genesis+39-40;Psalm+10:1-11;Proverbs+4:1-6;Matthew+13:31-58
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-21-45c4fa5f8550407fbbf58f71a5ac9995@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Bible Reading — Jan 21
+DESCRIPTION:OT: Ge 41-42\nPsalm: 10:12-18\nProverbs: 4:7-9\nNT: Mt 14:1-21\nESV: https://www.esv.org/Genesis+41-42\;Psalm+10:12-18\;Proverbs+4:7-9\;Matthew+14:1-21
+URL:https://www.esv.org/Genesis+41-42;Psalm+10:12-18;Proverbs+4:7-9;Matthew+14:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-22-285a6ab59ed94ec9b82b811fbde14d3e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Bible Reading — Jan 22
+DESCRIPTION:OT: Ge 43-44\nPsalm: 11\nProverbs: 4:10-13\nNT: Mt 14:22-36\nESV: https://www.esv.org/Genesis+43-44\;Psalm+11\;Proverbs+4:10-13\;Matthew+14:22-36
+URL:https://www.esv.org/Genesis+43-44;Psalm+11;Proverbs+4:10-13;Matthew+14:22-36
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-0d657d9fc5494f1d81961415c726c375@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Bible Reading — Jan 23
+DESCRIPTION:OT: Ge 45-46\nPsalm: 12\nProverbs: 4:14-17\nNT: Mt 15:1-20\nESV: https://www.esv.org/Genesis+45-46\;Psalm+12\;Proverbs+4:14-17\;Matthew+15:1-20
+URL:https://www.esv.org/Genesis+45-46;Psalm+12;Proverbs+4:14-17;Matthew+15:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-dab6bc1c5d1546ab9c5d1ffb9d1c66bb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Bible Reading — Jan 24
+DESCRIPTION:OT: Ge 47-48\nPsalm: 13\nProverbs: 4:18-19\nNT: Mt 15:21-39\nESV: https://www.esv.org/Genesis+47-48\;Psalm+13\;Proverbs+4:18-19\;Matthew+15:21-39
+URL:https://www.esv.org/Genesis+47-48;Psalm+13;Proverbs+4:18-19;Matthew+15:21-39
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-25-7a9d2d9c8a3e48899e795a9d8939c75a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:Bible Reading — Jan 25
+DESCRIPTION:OT: Ge 49-50\nPsalm: 14\nProverbs: 4:20-24\nNT: Mt 16\nESV: https://www.esv.org/Genesis+49-50\;Psalm+14\;Proverbs+4:20-24\;Matthew+16
+URL:https://www.esv.org/Genesis+49-50;Psalm+14;Proverbs+4:20-24;Matthew+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-26-8c48fad232bd4df1b03c7b48eb2ae4b4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Bible Reading — Jan 26
+DESCRIPTION:OT: Ex 1-2\nPsalm: 15\nProverbs: 4:25-27\nNT: Mt 17\nESV: https://www.esv.org/Exodus+1-2\;Psalm+15\;Proverbs+4:25-27\;Matthew+17
+URL:https://www.esv.org/Exodus+1-2;Psalm+15;Proverbs+4:25-27;Matthew+17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-27-14d2a1c0ee584b32b5bff02f365d5ea4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Bible Reading — Jan 27
+DESCRIPTION:OT: Ex 3-4\nPsalm: 16:1-6\nProverbs: 5:1-6\nNT: Mt 18:1-20\nESV: https://www.esv.org/Exodus+3-4\;Psalm+16:1-6\;Proverbs+5:1-6\;Matthew+18:1-20
+URL:https://www.esv.org/Exodus+3-4;Psalm+16:1-6;Proverbs+5:1-6;Matthew+18:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-28-356805a16cf24ca1844077e9bf8283b9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Bible Reading — Jan 28
+DESCRIPTION:OT: Ex 5-6\nPsalm: 16:7-11\nProverbs: 5:7-14\nNT: Mt 18:21-35\nESV: https://www.esv.org/Exodus+5-6\;Psalm+16:7-11\;Proverbs+5:7-14\;Matthew+18:21-35
+URL:https://www.esv.org/Exodus+5-6;Psalm+16:7-11;Proverbs+5:7-14;Matthew+18:21-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-29-645918add92a4bdc952e8a96098f108e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Bible Reading — Jan 29
+DESCRIPTION:OT: Ex 7-8\nPsalm: 17:1-7\nProverbs: 5:15-20\nNT: Mt 19\nESV: https://www.esv.org/Exodus+7-8\;Psalm+17:1-7\;Proverbs+5:15-20\;Matthew+19
+URL:https://www.esv.org/Exodus+7-8;Psalm+17:1-7;Proverbs+5:15-20;Matthew+19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-56dc3ab7a46d4d31a1eaa5438b94c9d2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Bible Reading — Jan 30
+DESCRIPTION:OT: Ex 9-10\nPsalm: 17:8-15\nProverbs: 5:21-23\nNT: Mt 20:1-16\nESV: https://www.esv.org/Exodus+9-10\;Psalm+17:8-15\;Proverbs+5:21-23\;Matthew+20:1-16
+URL:https://www.esv.org/Exodus+9-10;Psalm+17:8-15;Proverbs+5:21-23;Matthew+20:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-624541bcf64c4b80bc5c513d750d3ad7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Bible Reading — Jan 31
+DESCRIPTION:OT: Ex 11-12\nPsalm: 18:1-12\nProverbs: 6:1-5\nNT: Mt 20:17-34\nESV: https://www.esv.org/Exodus+11-12\;Psalm+18:1-12\;Proverbs+6:1-5\;Matthew+20:17-34
+URL:https://www.esv.org/Exodus+11-12;Psalm+18:1-12;Proverbs+6:1-5;Matthew+20:17-34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-01-7253b41209484549be90c7d61a88a7ee@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Bible Reading — Feb 1
+DESCRIPTION:OT: Ex 13-14\nPsalm: 18:13-19\nProverbs: 6:6-11\nNT: Mt 21:1-22\nESV: https://www.esv.org/Exodus+13-14\;Psalm+18:13-19\;Proverbs+6:6-11\;Matthew+21:1-22
+URL:https://www.esv.org/Exodus+13-14;Psalm+18:13-19;Proverbs+6:6-11;Matthew+21:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-02-85725b2e944d428ba67d651de9e410ef@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Bible Reading — Feb 2
+DESCRIPTION:OT: Ex 15-16\nPsalm: 18:20-27\nProverbs: 6:12-15\nNT: Mt 21:23-46\nESV: https://www.esv.org/Exodus+15-16\;Psalm+18:20-27\;Proverbs+6:12-15\;Matthew+21:23-46
+URL:https://www.esv.org/Exodus+15-16;Psalm+18:20-27;Proverbs+6:12-15;Matthew+21:23-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-03-64725fd617a74cd1a96445c7d6481692@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Bible Reading — Feb 3
+DESCRIPTION:OT: Ex 17-18\nPsalm: 18:28-36\nProverbs: 6:16-19\nNT: Mt 22:1-22\nESV: https://www.esv.org/Exodus+17-18\;Psalm+18:28-36\;Proverbs+6:16-19\;Matthew+22:1-22
+URL:https://www.esv.org/Exodus+17-18;Psalm+18:28-36;Proverbs+6:16-19;Matthew+22:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-04-8b7b14e421b3490ba02080fdc071ea67@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Bible Reading — Feb 4
+DESCRIPTION:OT: Ex 19-20\nPsalm: 18:37-45\nProverbs: 6:20-25\nNT: Mt 22:23-46\nESV: https://www.esv.org/Exodus+19-20\;Psalm+18:37-45\;Proverbs+6:20-25\;Matthew+22:23-46
+URL:https://www.esv.org/Exodus+19-20;Psalm+18:37-45;Proverbs+6:20-25;Matthew+22:23-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05-6c9db1a716b245728768d5d73d2d7529@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Bible Reading — Feb 5
+DESCRIPTION:OT: Ex 21-22\nPsalm: 18:46-50\nProverbs: 6:26-29\nNT: Mt 23:1-22\nESV: https://www.esv.org/Exodus+21-22\;Psalm+18:46-50\;Proverbs+6:26-29\;Matthew+23:1-22
+URL:https://www.esv.org/Exodus+21-22;Psalm+18:46-50;Proverbs+6:26-29;Matthew+23:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-06-208c63910bf043bb8205f48ebb2919f8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Bible Reading — Feb 6
+DESCRIPTION:OT: Ex 23-24\nPsalm: 19:1-6\nProverbs: 6:30-31\nNT: Mt 23:23-29\nESV: https://www.esv.org/Exodus+23-24\;Psalm+19:1-6\;Proverbs+6:30-31\;Matthew+23:23-29
+URL:https://www.esv.org/Exodus+23-24;Psalm+19:1-6;Proverbs+6:30-31;Matthew+23:23-29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-07-0cfb258e0e7640e58f991a1dcb852223@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:Bible Reading — Feb 7
+DESCRIPTION:OT: Ex 25-26\nPsalm: 19:7-14\nProverbs: 6:32-35\nNT: Mt 24:1-28\nESV: https://www.esv.org/Exodus+25-26\;Psalm+19:7-14\;Proverbs+6:32-35\;Matthew+24:1-28
+URL:https://www.esv.org/Exodus+25-26;Psalm+19:7-14;Proverbs+6:32-35;Matthew+24:1-28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-08-d489bea69e1a48baa0fe4b32ed43daaf@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:Bible Reading — Feb 8
+DESCRIPTION:OT: Ex 27-28\nPsalm: 20:1-5\nProverbs: 7:1-5\nNT: Mt 24:29-51\nESV: https://www.esv.org/Exodus+27-28\;Psalm+20:1-5\;Proverbs+7:1-5\;Matthew+24:29-51
+URL:https://www.esv.org/Exodus+27-28;Psalm+20:1-5;Proverbs+7:1-5;Matthew+24:29-51
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-09-0115d159e5f845ea83491d64200933f6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Bible Reading — Feb 9
+DESCRIPTION:OT: Ex 29-30\nPsalm: 20:6-9\nProverbs: 7:6-23\nNT: Mt 25:1-30\nESV: https://www.esv.org/Exodus+29-30\;Psalm+20:6-9\;Proverbs+7:6-23\;Matthew+25:1-30
+URL:https://www.esv.org/Exodus+29-30;Psalm+20:6-9;Proverbs+7:6-23;Matthew+25:1-30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-10-fd3d4eb187ff4ed680381a08f6e544f3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Bible Reading — Feb 10
+DESCRIPTION:OT: Ex 31-32\nPsalm: 21:1-7\nProverbs: 7:24-27\nNT: Mt 25:31-46\nESV: https://www.esv.org/Exodus+31-32\;Psalm+21:1-7\;Proverbs+7:24-27\;Matthew+25:31-46
+URL:https://www.esv.org/Exodus+31-32;Psalm+21:1-7;Proverbs+7:24-27;Matthew+25:31-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-11-930c1821936b417e82d9db68abcea6af@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Bible Reading — Feb 11
+DESCRIPTION:OT: Ex 33-34\nPsalm: 21:8-13\nProverbs: 8:1-5\nNT: Mt 26:1-25\nESV: https://www.esv.org/Exodus+33-34\;Psalm+21:8-13\;Proverbs+8:1-5\;Matthew+26:1-25
+URL:https://www.esv.org/Exodus+33-34;Psalm+21:8-13;Proverbs+8:1-5;Matthew+26:1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-12-4cc44cd3e5434b2a80ab4d66f2782d5d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Bible Reading — Feb 12
+DESCRIPTION:OT: Ex 35-36\nPsalm: 22:1-8\nProverbs: 8:6-11\nNT: Mt 26:26-50\nESV: https://www.esv.org/Exodus+35-36\;Psalm+22:1-8\;Proverbs+8:6-11\;Matthew+26:26-50
+URL:https://www.esv.org/Exodus+35-36;Psalm+22:1-8;Proverbs+8:6-11;Matthew+26:26-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-d27a0d5b64bd4a0bb6f1ec22715f3c35@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Bible Reading — Feb 13
+DESCRIPTION:OT: Ex 37-38\nPsalm: 22:9-15\nProverbs: 8:12-21\nNT: Mt 26:51-75\nESV: https://www.esv.org/Exodus+37-38\;Psalm+22:9-15\;Proverbs+8:12-21\;Matthew+26:51-75
+URL:https://www.esv.org/Exodus+37-38;Psalm+22:9-15;Proverbs+8:12-21;Matthew+26:51-75
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-e58f21428f7f416399181fa91b2ac076@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Bible Reading — Feb 14
+DESCRIPTION:OT: Ex 39-40\nPsalm: 22:16-21\nProverbs: 8:22-31\nNT: Mt 27:1-26\nESV: https://www.esv.org/Exodus+39-40\;Psalm+22:16-21\;Proverbs+8:22-31\;Matthew+27:1-26
+URL:https://www.esv.org/Exodus+39-40;Psalm+22:16-21;Proverbs+8:22-31;Matthew+27:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-15-5394d1c2d39b4d53a32d86ad3feab599@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:Bible Reading — Feb 15
+DESCRIPTION:OT: Lv 1-2\nPsalm: 22:22-31\nProverbs: 8:32-36\nNT: Mt 27:27-54\nESV: https://www.esv.org/Leviticus+1-2\;Psalm+22:22-31\;Proverbs+8:32-36\;Matthew+27:27-54
+URL:https://www.esv.org/Leviticus+1-2;Psalm+22:22-31;Proverbs+8:32-36;Matthew+27:27-54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-16-0c43eac1446b4f2d9502f10fff6aa054@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Bible Reading — Feb 16
+DESCRIPTION:OT: Lv 3-4\nPsalm: 23\nProverbs: 9:1-6\nNT: Mt 27:55-66\nESV: https://www.esv.org/Leviticus+3-4\;Psalm+23\;Proverbs+9:1-6\;Matthew+27:55-66
+URL:https://www.esv.org/Leviticus+3-4;Psalm+23;Proverbs+9:1-6;Matthew+27:55-66
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-17-f8f5c7710baf4d6ba5c95b96ec4cda07@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Bible Reading — Feb 17
+DESCRIPTION:OT: Lv 5-6\nPsalm: 24:1-6\nProverbs: 9:7-9\nNT: Mt 28\nESV: https://www.esv.org/Leviticus+5-6\;Psalm+24:1-6\;Proverbs+9:7-9\;Matthew+28
+URL:https://www.esv.org/Leviticus+5-6;Psalm+24:1-6;Proverbs+9:7-9;Matthew+28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-18-9e8b2032dedc4cba959e66ff7efc74e9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Bible Reading — Feb 18
+DESCRIPTION:OT: Lv 7-8\nPsalm: 24:7-10\nProverbs: 9:10-12\nNT: Mk 1:1-22\nESV: https://www.esv.org/Leviticus+7-8\;Psalm+24:7-10\;Proverbs+9:10-12\;Mark+1:1-22
+URL:https://www.esv.org/Leviticus+7-8;Psalm+24:7-10;Proverbs+9:10-12;Mark+1:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19-812ad106e8c54b44a991d89cad2d3dcf@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Bible Reading — Feb 19
+DESCRIPTION:OT: Lv 9-10\nPsalm: 25:1-7\nProverbs: 9:13-18\nNT: Mk 1:23-45\nESV: https://www.esv.org/Leviticus+9-10\;Psalm+25:1-7\;Proverbs+9:13-18\;Mark+1:23-45
+URL:https://www.esv.org/Leviticus+9-10;Psalm+25:1-7;Proverbs+9:13-18;Mark+1:23-45
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-fa803a19eee547318b19360e849a4941@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Bible Reading — Feb 20
+DESCRIPTION:OT: Lv 11-12\nPsalm: 25:8-15\nProverbs: 10:1-3\nNT: Mk 2\nESV: https://www.esv.org/Leviticus+11-12\;Psalm+25:8-15\;Proverbs+10:1-3\;Mark+2
+URL:https://www.esv.org/Leviticus+11-12;Psalm+25:8-15;Proverbs+10:1-3;Mark+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-772eafdb412e4feaac370d7c15df23c4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Bible Reading — Feb 21
+DESCRIPTION:OT: Lv 13\nPsalm: 25:16-22\nProverbs: 10:4-5\nNT: Mk 3:1-19\nESV: https://www.esv.org/Leviticus+13\;Psalm+25:16-22\;Proverbs+10:4-5\;Mark+3:1-19
+URL:https://www.esv.org/Leviticus+13;Psalm+25:16-22;Proverbs+10:4-5;Mark+3:1-19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-22-79f5fe84dcdc493f85701aecfa388756@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:Bible Reading — Feb 22
+DESCRIPTION:OT: Lv 14\nPsalm: 26:1-5\nProverbs: 10:6-7\nNT: Mk 3:20-35\nESV: https://www.esv.org/Leviticus+14\;Psalm+26:1-5\;Proverbs+10:6-7\;Mark+3:20-35
+URL:https://www.esv.org/Leviticus+14;Psalm+26:1-5;Proverbs+10:6-7;Mark+3:20-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-23-652bdff408204f2a86dbb5cc0b307a51@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Bible Reading — Feb 23
+DESCRIPTION:OT: Lv 15-16\nPsalm: 26:6-12\nProverbs: 10:8\nNT: Mk 4:1-20\nESV: https://www.esv.org/Leviticus+15-16\;Psalm+26:6-12\;Proverbs+10:8\;Mark+4:1-20
+URL:https://www.esv.org/Leviticus+15-16;Psalm+26:6-12;Proverbs+10:8;Mark+4:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-24-f242b2cb06274a4d896df5eddbaeaaf3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Bible Reading — Feb 24
+DESCRIPTION:OT: Lv 17-18\nPsalm: 27:1-3\nProverbs: 10:9\nNT: Mk 4:21-41\nESV: https://www.esv.org/Leviticus+17-18\;Psalm+27:1-3\;Proverbs+10:9\;Mark+4:21-41
+URL:https://www.esv.org/Leviticus+17-18;Psalm+27:1-3;Proverbs+10:9;Mark+4:21-41
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-25-008936f13b1d4418b303bbb7bc7d581b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:Bible Reading — Feb 25
+DESCRIPTION:OT: Lv 19-20\nPsalm: 27:4-10\nProverbs: 10:10-12\nNT: Mk 5:1-20\nESV: https://www.esv.org/Leviticus+19-20\;Psalm+27:4-10\;Proverbs+10:10-12\;Mark+5:1-20
+URL:https://www.esv.org/Leviticus+19-20;Psalm+27:4-10;Proverbs+10:10-12;Mark+5:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-26-0bc86920e7174e148da13853da5f622a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:Bible Reading — Feb 26
+DESCRIPTION:OT: Lv 21-22\nPsalm: 27:11-14\nProverbs: 10:13-16\nNT: Mk 5:21-43\nESV: https://www.esv.org/Leviticus+21-22\;Psalm+27:11-14\;Proverbs+10:13-16\;Mark+5:21-43
+URL:https://www.esv.org/Leviticus+21-22;Psalm+27:11-14;Proverbs+10:13-16;Mark+5:21-43
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-109fcbee53ee48ccbed730f2c846c6f4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Bible Reading — Feb 27
+DESCRIPTION:OT: Lv 23-24\nPsalm: 28:1-5\nProverbs: 10:17-18\nNT: Mk 6:1-29\nESV: https://www.esv.org/Leviticus+23-24\;Psalm+28:1-5\;Proverbs+10:17-18\;Mark+6:1-29
+URL:https://www.esv.org/Leviticus+23-24;Psalm+28:1-5;Proverbs+10:17-18;Mark+6:1-29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-997a2c8de32d4ab195206fa0dfe02eaa@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Bible Reading — Feb 28
+DESCRIPTION:OT: Lv 25\nPsalm: 28:6-9\nProverbs: 10:19-21\nNT: Mk 6:30-56\nESV: https://www.esv.org/Leviticus+25\;Psalm+28:6-9\;Proverbs+10:19-21\;Mark+6:30-56
+URL:https://www.esv.org/Leviticus+25;Psalm+28:6-9;Proverbs+10:19-21;Mark+6:30-56
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-01-db7fb113ef4f49ca898e9993586fe303@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:Bible Reading — Mar 1
+DESCRIPTION:OT: Lv 26-27\nPsalm: 29:1-6\nProverbs: 10:22-25\nNT: Mk 7:1-13\nESV: https://www.esv.org/Leviticus+26-27\;Psalm+29:1-6\;Proverbs+10:22-25\;Mark+7:1-13
+URL:https://www.esv.org/Leviticus+26-27;Psalm+29:1-6;Proverbs+10:22-25;Mark+7:1-13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-02-2bf89fa07eb04a3c9f4f03c3f45e9924@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Bible Reading — Mar 2
+DESCRIPTION:OT: Nu 1-2\nPsalm: 29:7-11\nProverbs: 10:26-29\nNT: Mk 7:14-37\nESV: https://www.esv.org/Numbers+1-2\;Psalm+29:7-11\;Proverbs+10:26-29\;Mark+7:14-37
+URL:https://www.esv.org/Numbers+1-2;Psalm+29:7-11;Proverbs+10:26-29;Mark+7:14-37
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-03-e51b65c79bfd461fa14faaccfdb540a2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Bible Reading — Mar 3
+DESCRIPTION:OT: Nu 3-4\nPsalm: 30:1-7\nProverbs: 10:30-32\nNT: Mk 8:1-21\nESV: https://www.esv.org/Numbers+3-4\;Psalm+30:1-7\;Proverbs+10:30-32\;Mark+8:1-21
+URL:https://www.esv.org/Numbers+3-4;Psalm+30:1-7;Proverbs+10:30-32;Mark+8:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-04-9beb50819ade45c1b1ef838360caba8d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Bible Reading — Mar 4
+DESCRIPTION:OT: Nu 5-6\nPsalm: 30:8-12\nProverbs: 11:1-3\nNT: Mk 8:22-38\nESV: https://www.esv.org/Numbers+5-6\;Psalm+30:8-12\;Proverbs+11:1-3\;Mark+8:22-38
+URL:https://www.esv.org/Numbers+5-6;Psalm+30:8-12;Proverbs+11:1-3;Mark+8:22-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-05-ef0e30c7a9d44ba6b83f563c8f3f6e4a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Bible Reading — Mar 5
+DESCRIPTION:OT: Nu 7-8\nPsalm: 31:1-5\nProverbs: 11:4-6\nNT: Mk 9:1-29\nESV: https://www.esv.org/Numbers+7-8\;Psalm+31:1-5\;Proverbs+11:4-6\;Mark+9:1-29
+URL:https://www.esv.org/Numbers+7-8;Psalm+31:1-5;Proverbs+11:4-6;Mark+9:1-29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-289cf90c997543a281254439e507e5db@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Bible Reading — Mar 6
+DESCRIPTION:OT: Nu 9-10\nPsalm: 31:6-14\nProverbs: 11:7-11\nNT: Mk 9:30-50\nESV: https://www.esv.org/Numbers+9-10\;Psalm+31:6-14\;Proverbs+11:7-11\;Mark+9:30-50
+URL:https://www.esv.org/Numbers+9-10;Psalm+31:6-14;Proverbs+11:7-11;Mark+9:30-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-07-e26993b010ea48b28277adacf4b3c097@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Bible Reading — Mar 7
+DESCRIPTION:OT: Nu 11-12\nPsalm: 31:15-18\nProverbs: 11:12-14\nNT: Mk 10:1-31\nESV: https://www.esv.org/Numbers+11-12\;Psalm+31:15-18\;Proverbs+11:12-14\;Mark+10:1-31
+URL:https://www.esv.org/Numbers+11-12;Psalm+31:15-18;Proverbs+11:12-14;Mark+10:1-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-08-b86121475ba84ad1b635e189aecbee4b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Bible Reading — Mar 8
+DESCRIPTION:OT: Nu 13-14\nPsalm: 31:19-24\nProverbs: 11:15\nNT: Mk 10:32-52\nESV: https://www.esv.org/Numbers+13-14\;Psalm+31:19-24\;Proverbs+11:15\;Mark+10:32-52
+URL:https://www.esv.org/Numbers+13-14;Psalm+31:19-24;Proverbs+11:15;Mark+10:32-52
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-09-f8735239d9f64553b537aec7d20398cb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Bible Reading — Mar 9
+DESCRIPTION:OT: Nu 15-16\nPsalm: 32:1-5\nProverbs: 11:16-18\nNT: Mk 11:1-19\nESV: https://www.esv.org/Numbers+15-16\;Psalm+32:1-5\;Proverbs+11:16-18\;Mark+11:1-19
+URL:https://www.esv.org/Numbers+15-16;Psalm+32:1-5;Proverbs+11:16-18;Mark+11:1-19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-10-71f043755bc84afea3cb8053bf6985b3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:Bible Reading — Mar 10
+DESCRIPTION:OT: Nu 17-18\nPsalm: 32:6-11\nProverbs: 11:19-21\nNT: Mk 11:20-33\nESV: https://www.esv.org/Numbers+17-18\;Psalm+32:6-11\;Proverbs+11:19-21\;Mark+11:20-33
+URL:https://www.esv.org/Numbers+17-18;Psalm+32:6-11;Proverbs+11:19-21;Mark+11:20-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-11-b6a1a7b5157f4acc978dc6541fbd330f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:Bible Reading — Mar 11
+DESCRIPTION:OT: Nu 19-20\nPsalm: 33:1-9\nProverbs: 11:22-24\nNT: Mk 12:1-27\nESV: https://www.esv.org/Numbers+19-20\;Psalm+33:1-9\;Proverbs+11:22-24\;Mark+12:1-27
+URL:https://www.esv.org/Numbers+19-20;Psalm+33:1-9;Proverbs+11:22-24;Mark+12:1-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-12-8b488013998549f1a095d6617da04a06@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Bible Reading — Mar 12
+DESCRIPTION:OT: Nu 21-22\nPsalm: 33:10-17\nProverbs: 11:25-26\nNT: Mk 12:28-44\nESV: https://www.esv.org/Numbers+21-22\;Psalm+33:10-17\;Proverbs+11:25-26\;Mark+12:28-44
+URL:https://www.esv.org/Numbers+21-22;Psalm+33:10-17;Proverbs+11:25-26;Mark+12:28-44
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-e777b7c86cbd4883be87c43e6916e308@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Bible Reading — Mar 13
+DESCRIPTION:OT: Nu 23-24\nPsalm: 33:18-22\nProverbs: 11:27\nNT: Mk 13:1-20\nESV: https://www.esv.org/Numbers+23-24\;Psalm+33:18-22\;Proverbs+11:27\;Mark+13:1-20
+URL:https://www.esv.org/Numbers+23-24;Psalm+33:18-22;Proverbs+11:27;Mark+13:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-aaa449fd92624740a99756dd49b0ff05@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Bible Reading — Mar 14
+DESCRIPTION:OT: Nu 25-26\nPsalm: 34:1-7\nProverbs: 11:28\nNT: Mk 13:21-37\nESV: https://www.esv.org/Numbers+25-26\;Psalm+34:1-7\;Proverbs+11:28\;Mark+13:21-37
+URL:https://www.esv.org/Numbers+25-26;Psalm+34:1-7;Proverbs+11:28;Mark+13:21-37
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-15-15732c0c845a4a2495b590c06944661d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Bible Reading — Mar 15
+DESCRIPTION:OT: Nu 27-28\nPsalm: 34:8-14\nProverbs: 11:29\nNT: Mk 14:1-26\nESV: https://www.esv.org/Numbers+27-28\;Psalm+34:8-14\;Proverbs+11:29\;Mark+14:1-26
+URL:https://www.esv.org/Numbers+27-28;Psalm+34:8-14;Proverbs+11:29;Mark+14:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-16-1d8d4ec1d20548c88949a0a7f996ec5e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Bible Reading — Mar 16
+DESCRIPTION:OT: Nu 29-30\nPsalm: 34:15-22\nProverbs: 11:30-31\nNT: Mk 14:27-54\nESV: https://www.esv.org/Numbers+29-30\;Psalm+34:15-22\;Proverbs+11:30-31\;Mark+14:27-54
+URL:https://www.esv.org/Numbers+29-30;Psalm+34:15-22;Proverbs+11:30-31;Mark+14:27-54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-17-0aae47af5ec04428a9d4c49117fdf1c7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Bible Reading — Mar 17
+DESCRIPTION:OT: Nu 31-32\nPsalm: 35:1-8\nProverbs: 12:1\nNT: Mk 14:55-72\nESV: https://www.esv.org/Numbers+31-32\;Psalm+35:1-8\;Proverbs+12:1\;Mark+14:55-72
+URL:https://www.esv.org/Numbers+31-32;Psalm+35:1-8;Proverbs+12:1;Mark+14:55-72
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-18-501208148d0849e7a7dba9c368bb3a1e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Bible Reading — Mar 18
+DESCRIPTION:OT: Nu 33-34\nPsalm: 35:9-16\nProverbs: 12:2\nNT: Mk 15:1-24\nESV: https://www.esv.org/Numbers+33-34\;Psalm+35:9-16\;Proverbs+12:2\;Mark+15:1-24
+URL:https://www.esv.org/Numbers+33-34;Psalm+35:9-16;Proverbs+12:2;Mark+15:1-24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-19-3bcca4e2482d4728a32fde75d82e1570@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Bible Reading — Mar 19
+DESCRIPTION:OT: Nu 35-36\nPsalm: 35:17-28\nProverbs: 12:3\nNT: Mk 15:25-47\nESV: https://www.esv.org/Numbers+35-36\;Psalm+35:17-28\;Proverbs+12:3\;Mark+15:25-47
+URL:https://www.esv.org/Numbers+35-36;Psalm+35:17-28;Proverbs+12:3;Mark+15:25-47
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-5e0c8ab50f41495194b3ca1697edd996@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Bible Reading — Mar 20
+DESCRIPTION:OT: Dt 1-2\nPsalm: 36:1-6\nProverbs: 12:4-6\nNT: Mk 16\nESV: https://www.esv.org/Deuteronomy+1-2\;Psalm+36:1-6\;Proverbs+12:4-6\;Mark+16
+URL:https://www.esv.org/Deuteronomy+1-2;Psalm+36:1-6;Proverbs+12:4-6;Mark+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-6a1634bb75af4a2f9866addcb9e2e22f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Bible Reading — Mar 21
+DESCRIPTION:OT: Dt 3-4\nPsalm: 36:7-12\nProverbs: 12:7\nNT: Lk 1:1-20\nESV: https://www.esv.org/Deuteronomy+3-4\;Psalm+36:7-12\;Proverbs+12:7\;Luke+1:1-20
+URL:https://www.esv.org/Deuteronomy+3-4;Psalm+36:7-12;Proverbs+12:7;Luke+1:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-22-fd0ad8810afe40a09ae2fbe84173d76d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:Bible Reading — Mar 22
+DESCRIPTION:OT: Dt 5-6\nPsalm: 37:1-4\nProverbs: 12:8\nNT: Lk 1:21-38\nESV: https://www.esv.org/Deuteronomy+5-6\;Psalm+37:1-4\;Proverbs+12:8\;Luke+1:21-38
+URL:https://www.esv.org/Deuteronomy+5-6;Psalm+37:1-4;Proverbs+12:8;Luke+1:21-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-23-90379936bcf74fa68e102ad87102574e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Bible Reading — Mar 23
+DESCRIPTION:OT: Dt 7-8\nPsalm: 37:5-11\nProverbs: 12:9-10\nNT: Lk 1:39-56\nESV: https://www.esv.org/Deuteronomy+7-8\;Psalm+37:5-11\;Proverbs+12:9-10\;Luke+1:39-56
+URL:https://www.esv.org/Deuteronomy+7-8;Psalm+37:5-11;Proverbs+12:9-10;Luke+1:39-56
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-24-ebbaf8b5fd794bb28e2dfde808cdffd2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Bible Reading — Mar 24
+DESCRIPTION:OT: Dt 9-10\nPsalm: 37:12-17\nProverbs: 12:11\nNT: Lk 1:57-80\nESV: https://www.esv.org/Deuteronomy+9-10\;Psalm+37:12-17\;Proverbs+12:11\;Luke+1:57-80
+URL:https://www.esv.org/Deuteronomy+9-10;Psalm+37:12-17;Proverbs+12:11;Luke+1:57-80
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-25-ec14315e9b114752b0aabb147ce313fb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Bible Reading — Mar 25
+DESCRIPTION:OT: Dt 11-12\nPsalm: 37:18-22\nProverbs: 12:12-14\nNT: Lk 2:1-24\nESV: https://www.esv.org/Deuteronomy+11-12\;Psalm+37:18-22\;Proverbs+12:12-14\;Luke+2:1-24
+URL:https://www.esv.org/Deuteronomy+11-12;Psalm+37:18-22;Proverbs+12:12-14;Luke+2:1-24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-26-3a5f1d37496d4b9bbd99d616b59fad6f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Bible Reading — Mar 26
+DESCRIPTION:OT: Dt 13-14\nPsalm: 37:23-29\nProverbs: 12:15-16\nNT: Lk 2:25-52\nESV: https://www.esv.org/Deuteronomy+13-14\;Psalm+37:23-29\;Proverbs+12:15-16\;Luke+2:25-52
+URL:https://www.esv.org/Deuteronomy+13-14;Psalm+37:23-29;Proverbs+12:15-16;Luke+2:25-52
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-27-37f415c3a1f24e2e9055d5e792858fc5@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Bible Reading — Mar 27
+DESCRIPTION:OT: Dt 15-16\nPsalm: 37:30-36\nProverbs: 12:17-19\nNT: Lk 3\nESV: https://www.esv.org/Deuteronomy+15-16\;Psalm+37:30-36\;Proverbs+12:17-19\;Luke+3
+URL:https://www.esv.org/Deuteronomy+15-16;Psalm+37:30-36;Proverbs+12:17-19;Luke+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-28-4cbbc680dd4a434c93e29839dedf2869@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Bible Reading — Mar 28
+DESCRIPTION:OT: Dt 17-18\nPsalm: 37:37-40\nProverbs: 12:20-22\nNT: Lk 4:1-30\nESV: https://www.esv.org/Deuteronomy+17-18\;Psalm+37:37-40\;Proverbs+12:20-22\;Luke+4:1-30
+URL:https://www.esv.org/Deuteronomy+17-18;Psalm+37:37-40;Proverbs+12:20-22;Luke+4:1-30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-29-bb3c86f2a2a64e92a04315e9046d11ce@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Bible Reading — Mar 29
+DESCRIPTION:OT: Dt 19-20\nPsalm: 38:1-8\nProverbs: 12:23-25\nNT: Lk 4:31-44\nESV: https://www.esv.org/Deuteronomy+19-20\;Psalm+38:1-8\;Proverbs+12:23-25\;Luke+4:31-44
+URL:https://www.esv.org/Deuteronomy+19-20;Psalm+38:1-8;Proverbs+12:23-25;Luke+4:31-44
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-30-b9eb9f90d23f48e2b70e5ec1449abcb0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Bible Reading — Mar 30
+DESCRIPTION:OT: Dt 21-22\nPsalm: 38:9-22\nProverbs: 12:26-28\nNT: Lk 5:1-16\nESV: https://www.esv.org/Deuteronomy+21-22\;Psalm+38:9-22\;Proverbs+12:26-28\;Luke+5:1-16
+URL:https://www.esv.org/Deuteronomy+21-22;Psalm+38:9-22;Proverbs+12:26-28;Luke+5:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-31-859637125efc49858398834884cdcaf7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Bible Reading — Mar 31
+DESCRIPTION:OT: Dt 23-24\nPsalm: 39:1-6\nProverbs: 13:1-3\nNT: Lk 5:17-39\nESV: https://www.esv.org/Deuteronomy+23-24\;Psalm+39:1-6\;Proverbs+13:1-3\;Luke+5:17-39
+URL:https://www.esv.org/Deuteronomy+23-24;Psalm+39:1-6;Proverbs+13:1-3;Luke+5:17-39
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-01-7d625b986e2b495084c0809bddb11e27@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Bible Reading — Apr 1
+DESCRIPTION:OT: Dt 25-26\nPsalm: 39:7-11\nProverbs: 13:4-6\nNT: Lk 6:1-26\nESV: https://www.esv.org/Deuteronomy+25-26\;Psalm+39:7-11\;Proverbs+13:4-6\;Luke+6:1-26
+URL:https://www.esv.org/Deuteronomy+25-26;Psalm+39:7-11;Proverbs+13:4-6;Luke+6:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-02-b6540254ec9443c1a126f34bcbfa80a2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Bible Reading — Apr 2
+DESCRIPTION:OT: Dt 27-28\nPsalm: 39:12-13\nProverbs: 13:7-8\nNT: Lk 6:27-49\nESV: https://www.esv.org/Deuteronomy+27-28\;Psalm+39:12-13\;Proverbs+13:7-8\;Luke+6:27-49
+URL:https://www.esv.org/Deuteronomy+27-28;Psalm+39:12-13;Proverbs+13:7-8;Luke+6:27-49
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-9a278c2622f2454b973d40520eefbd03@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Bible Reading — Apr 3
+DESCRIPTION:OT: Dt 29-30\nPsalm: 40:1-5\nProverbs: 13:9-10\nNT: Lk 7:1-30\nESV: https://www.esv.org/Deuteronomy+29-30\;Psalm+40:1-5\;Proverbs+13:9-10\;Luke+7:1-30
+URL:https://www.esv.org/Deuteronomy+29-30;Psalm+40:1-5;Proverbs+13:9-10;Luke+7:1-30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-04-5a934263467b4a548d85ac44e2389e8a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Bible Reading — Apr 4
+DESCRIPTION:OT: Dt 31-32\nPsalm: 40:6-12\nProverbs: 13:11-12\nNT: Lk 7:31-50\nESV: https://www.esv.org/Deuteronomy+31-32\;Psalm+40:6-12\;Proverbs+13:11-12\;Luke+7:31-50
+URL:https://www.esv.org/Deuteronomy+31-32;Psalm+40:6-12;Proverbs+13:11-12;Luke+7:31-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-6b96221726b74602a3cfd20c7c3880f7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Bible Reading — Apr 5
+DESCRIPTION:OT: Dt 33-34\nPsalm: 40:13-17\nProverbs: 13:13-14\nNT: Lk 8:1-25\nESV: https://www.esv.org/Deuteronomy+33-34\;Psalm+40:13-17\;Proverbs+13:13-14\;Luke+8:1-25
+URL:https://www.esv.org/Deuteronomy+33-34;Psalm+40:13-17;Proverbs+13:13-14;Luke+8:1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-06-b72a1b343c02457a8373d0a8be4c838f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Bible Reading — Apr 6
+DESCRIPTION:OT: Jos 1-2\nPsalm: 41\nProverbs: 13:15-16\nNT: Lk 8:26-56\nESV: https://www.esv.org/Joshua+1-2\;Psalm+41\;Proverbs+13:15-16\;Luke+8:26-56
+URL:https://www.esv.org/Joshua+1-2;Psalm+41;Proverbs+13:15-16;Luke+8:26-56
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-07-6892750ad4044db78a538348ebf5606f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Bible Reading — Apr 7
+DESCRIPTION:OT: Jos 3-4\nPsalm: 42:1-5\nProverbs: 13:17-18\nNT: Lk 9:1-17\nESV: https://www.esv.org/Joshua+3-4\;Psalm+42:1-5\;Proverbs+13:17-18\;Luke+9:1-17
+URL:https://www.esv.org/Joshua+3-4;Psalm+42:1-5;Proverbs+13:17-18;Luke+9:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-08-a14a436bccd64255b24fdc45013b7dbf@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:Bible Reading — Apr 8
+DESCRIPTION:OT: Jos 5-6\nPsalm: 42:6-11\nProverbs: 13:19-21\nNT: Lk 9:18-36\nESV: https://www.esv.org/Joshua+5-6\;Psalm+42:6-11\;Proverbs+13:19-21\;Luke+9:18-36
+URL:https://www.esv.org/Joshua+5-6;Psalm+42:6-11;Proverbs+13:19-21;Luke+9:18-36
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-09-4e5d29e25979468392784685dfa1c0e0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Bible Reading — Apr 9
+DESCRIPTION:OT: Jos 7-8\nPsalm: 43\nProverbs: 13:22-23\nNT: Lk 9:37-62\nESV: https://www.esv.org/Joshua+7-8\;Psalm+43\;Proverbs+13:22-23\;Luke+9:37-62
+URL:https://www.esv.org/Joshua+7-8;Psalm+43;Proverbs+13:22-23;Luke+9:37-62
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-9742284f66664154bf6ebbc3609c6f33@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Bible Reading — Apr 10
+DESCRIPTION:OT: Jos 9-10\nPsalm: 44:1-3\nProverbs: 13:24-25\nNT: Lk 10:1-24\nESV: https://www.esv.org/Joshua+9-10\;Psalm+44:1-3\;Proverbs+13:24-25\;Luke+10:1-24
+URL:https://www.esv.org/Joshua+9-10;Psalm+44:1-3;Proverbs+13:24-25;Luke+10:1-24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-09ac37039bee4c3995a2da6cb404fced@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Bible Reading — Apr 11
+DESCRIPTION:OT: Jos 11-12\nPsalm: 44:4-19\nProverbs: 14:1-2\nNT: Lk 10:25-42\nESV: https://www.esv.org/Joshua+11-12\;Psalm+44:4-19\;Proverbs+14:1-2\;Luke+10:25-42
+URL:https://www.esv.org/Joshua+11-12;Psalm+44:4-19;Proverbs+14:1-2;Luke+10:25-42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-12-b7de2cd7451a403da1f3707e4655a972@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Bible Reading — Apr 12
+DESCRIPTION:OT: Jos 13-14\nPsalm: 44:20-26\nProverbs: 14:3\nNT: Lk 11:1-28\nESV: https://www.esv.org/Joshua+13-14\;Psalm+44:20-26\;Proverbs+14:3\;Luke+11:1-28
+URL:https://www.esv.org/Joshua+13-14;Psalm+44:20-26;Proverbs+14:3;Luke+11:1-28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-13-34cf6b25b07147308f0b136b60c072d8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Bible Reading — Apr 13
+DESCRIPTION:OT: Jos 15-16\nPsalm: 45:1-5\nProverbs: 14:4-5\nNT: Lk 11:29-54\nESV: https://www.esv.org/Joshua+15-16\;Psalm+45:1-5\;Proverbs+14:4-5\;Luke+11:29-54
+URL:https://www.esv.org/Joshua+15-16;Psalm+45:1-5;Proverbs+14:4-5;Luke+11:29-54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-14-12c7a34d1f054abca8c26ab45ea1f33e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Bible Reading — Apr 14
+DESCRIPTION:OT: Jos 17-18\nPsalm: 45:6-17\nProverbs: 14:6\nNT: Lk 12:1-31\nESV: https://www.esv.org/Joshua+17-18\;Psalm+45:6-17\;Proverbs+14:6\;Luke+12:1-31
+URL:https://www.esv.org/Joshua+17-18;Psalm+45:6-17;Proverbs+14:6;Luke+12:1-31
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-15-ae613a9069ea489f8db9db59c57c1f61@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Bible Reading — Apr 15
+DESCRIPTION:OT: Jos 19-20\nPsalm: 46:1-6\nProverbs: 14:7-11\nNT: Lk 12:32-59\nESV: https://www.esv.org/Joshua+19-20\;Psalm+46:1-6\;Proverbs+14:7-11\;Luke+12:32-59
+URL:https://www.esv.org/Joshua+19-20;Psalm+46:1-6;Proverbs+14:7-11;Luke+12:32-59
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-16-1b76cee2dfc54c4db53c2f496d44326f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Bible Reading — Apr 16
+DESCRIPTION:OT: Jos 21-22\nPsalm: 46:7-11\nProverbs: 14:12-13\nNT: Lk 13:1-21\nESV: https://www.esv.org/Joshua+21-22\;Psalm+46:7-11\;Proverbs+14:12-13\;Luke+13:1-21
+URL:https://www.esv.org/Joshua+21-22;Psalm+46:7-11;Proverbs+14:12-13;Luke+13:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-c8435813f1c94de39d097c8d1c7b8516@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Bible Reading — Apr 17
+DESCRIPTION:OT: Jos 23-24\nPsalm: 47\nProverbs: 14:14\nNT: Lk 13:22-35\nESV: https://www.esv.org/Joshua+23-24\;Psalm+47\;Proverbs+14:14\;Luke+13:22-35
+URL:https://www.esv.org/Joshua+23-24;Psalm+47;Proverbs+14:14;Luke+13:22-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-881a4e8d0e59426db644a57996c19b71@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Bible Reading — Apr 18
+DESCRIPTION:OT: Jdg 1-2\nPsalm: 48:1-8\nProverbs: 14:15-17\nNT: Lk 14:1-24\nESV: https://www.esv.org/Judges+1-2\;Psalm+48:1-8\;Proverbs+14:15-17\;Luke+14:1-24
+URL:https://www.esv.org/Judges+1-2;Psalm+48:1-8;Proverbs+14:15-17;Luke+14:1-24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-19-87b9596d0a954542b6b677d0edd2cf35@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Bible Reading — Apr 19
+DESCRIPTION:OT: Jdg 3-4\nPsalm: 48:9-14\nProverbs: 14:18-19\nNT: Lk 14:25-35\nESV: https://www.esv.org/Judges+3-4\;Psalm+48:9-14\;Proverbs+14:18-19\;Luke+14:25-35
+URL:https://www.esv.org/Judges+3-4;Psalm+48:9-14;Proverbs+14:18-19;Luke+14:25-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-20-addcf3a652be44f09f50ab41967dc544@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Bible Reading — Apr 20
+DESCRIPTION:OT: Jdg 5-6\nPsalm: 49:1-9\nProverbs: 14:20-21\nNT: Lk 15:1-10\nESV: https://www.esv.org/Judges+5-6\;Psalm+49:1-9\;Proverbs+14:20-21\;Luke+15:1-10
+URL:https://www.esv.org/Judges+5-6;Psalm+49:1-9;Proverbs+14:20-21;Luke+15:1-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-21-afc539f78f8c466db1d0034d9d93624e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Bible Reading — Apr 21
+DESCRIPTION:OT: Jdg 7-8\nPsalm: 49:10-20\nProverbs: 14:22-24\nNT: Lk 15:11-32\nESV: https://www.esv.org/Judges+7-8\;Psalm+49:10-20\;Proverbs+14:22-24\;Luke+15:11-32
+URL:https://www.esv.org/Judges+7-8;Psalm+49:10-20;Proverbs+14:22-24;Luke+15:11-32
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22-5d6a75c72193467687fbd9a050d13f7a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Bible Reading — Apr 22
+DESCRIPTION:OT: Jdg 9-10\nPsalm: 50:1-6\nProverbs: 14:25-27\nNT: Lk 16\nESV: https://www.esv.org/Judges+9-10\;Psalm+50:1-6\;Proverbs+14:25-27\;Luke+16
+URL:https://www.esv.org/Judges+9-10;Psalm+50:1-6;Proverbs+14:25-27;Luke+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-23-4b37e1bdbbc64c1e8766835c98bf4213@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Bible Reading — Apr 23
+DESCRIPTION:OT: Jdg 11-12\nPsalm: 50:7-15\nProverbs: 14:28\nNT: Lk 17:1-19\nESV: https://www.esv.org/Judges+11-12\;Psalm+50:7-15\;Proverbs+14:28\;Luke+17:1-19
+URL:https://www.esv.org/Judges+11-12;Psalm+50:7-15;Proverbs+14:28;Luke+17:1-19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-31c99776d1f24600bc06bb8ffdee0aa3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Bible Reading — Apr 24
+DESCRIPTION:OT: Jdg 13-14\nPsalm: 50:16-23\nProverbs: 14:29-30\nNT: Lk 17:20-37\nESV: https://www.esv.org/Judges+13-14\;Psalm+50:16-23\;Proverbs+14:29-30\;Luke+17:20-37
+URL:https://www.esv.org/Judges+13-14;Psalm+50:16-23;Proverbs+14:29-30;Luke+17:20-37
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-8d060f1a8c464d1789d292fe99c7ffea@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Bible Reading — Apr 25
+DESCRIPTION:OT: Jdg 15-16\nPsalm: 51:1-6\nProverbs: 14:31-32\nNT: Lk 18:1-23\nESV: https://www.esv.org/Judges+15-16\;Psalm+51:1-6\;Proverbs+14:31-32\;Luke+18:1-23
+URL:https://www.esv.org/Judges+15-16;Psalm+51:1-6;Proverbs+14:31-32;Luke+18:1-23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-26-a5926b7deb204bda80c1f398f34c993b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Bible Reading — Apr 26
+DESCRIPTION:OT: Jdg 17-19\nPsalm: 51:7-11\nProverbs: 14:33-35\nNT: Lk 18:24-43\nESV: https://www.esv.org/Judges+17-19\;Psalm+51:7-11\;Proverbs+14:33-35\;Luke+18:24-43
+URL:https://www.esv.org/Judges+17-19;Psalm+51:7-11;Proverbs+14:33-35;Luke+18:24-43
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-27-f48cb492ab284db2a46d393f9a04bea5@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:Bible Reading — Apr 27
+DESCRIPTION:OT: Jdg 20-21\nPsalm: 51:12-19\nProverbs: 15:1-3\nNT: Lk 19:1-27\nESV: https://www.esv.org/Judges+20-21\;Psalm+51:12-19\;Proverbs+15:1-3\;Luke+19:1-27
+URL:https://www.esv.org/Judges+20-21;Psalm+51:12-19;Proverbs+15:1-3;Luke+19:1-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-28-ddc6873439c74de7854277cf5e06b00d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Bible Reading — Apr 28
+DESCRIPTION:OT: Ru 1-2\nPsalm: 52:1-5\nProverbs: 15:4-5\nNT: Lk 19:28-48\nESV: https://www.esv.org/Ruth+1-2\;Psalm+52:1-5\;Proverbs+15:4-5\;Luke+19:28-48
+URL:https://www.esv.org/Ruth+1-2;Psalm+52:1-5;Proverbs+15:4-5;Luke+19:28-48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-29-d9b6d1ca6e54428bb6334f9f24f5c89d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Bible Reading — Apr 29
+DESCRIPTION:OT: Ru 3-4\nPsalm: 52:6-9\nProverbs: 15:6-7\nNT: Lk 20:1-26\nESV: https://www.esv.org/Ruth+3-4\;Psalm+52:6-9\;Proverbs+15:6-7\;Luke+20:1-26
+URL:https://www.esv.org/Ruth+3-4;Psalm+52:6-9;Proverbs+15:6-7;Luke+20:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-30c57f91a0da48c0841064e632cd67d8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Bible Reading — Apr 30
+DESCRIPTION:OT: 1 Sa 1-3\nPsalm: 53\nProverbs: 15:8-11\nNT: Lk 20:27-47\nESV: https://www.esv.org/1+Samuel+1-3\;Psalm+53\;Proverbs+15:8-11\;Luke+20:27-47
+URL:https://www.esv.org/1+Samuel+1-3;Psalm+53;Proverbs+15:8-11;Luke+20:27-47
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-9aee1dcad11644dca1f646f2450ef46a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Bible Reading — May 1
+DESCRIPTION:OT: 1 Sa 4-5\nPsalm: 54\nProverbs: 15:12-13\nNT: Lk 21:1-19\nESV: https://www.esv.org/1+Samuel+4-5\;Psalm+54\;Proverbs+15:12-13\;Luke+21:1-19
+URL:https://www.esv.org/1+Samuel+4-5;Psalm+54;Proverbs+15:12-13;Luke+21:1-19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-44cf2892603c4a34b031a9a3dffcf197@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Bible Reading — May 2
+DESCRIPTION:OT: 1 Sa 6-7\nPsalm: 55:1-8\nProverbs: 15:14\nNT: Lk 21:20-38\nESV: https://www.esv.org/1+Samuel+6-7\;Psalm+55:1-8\;Proverbs+15:14\;Luke+21:20-38
+URL:https://www.esv.org/1+Samuel+6-7;Psalm+55:1-8;Proverbs+15:14;Luke+21:20-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-03-396f0ab799e848aa9a7c98da916b2901@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Bible Reading — May 3
+DESCRIPTION:OT: 1 Sa 8-9\nPsalm: 55:9-15\nProverbs: 15:15-17\nNT: Lk 22:1-23\nESV: https://www.esv.org/1+Samuel+8-9\;Psalm+55:9-15\;Proverbs+15:15-17\;Luke+22:1-23
+URL:https://www.esv.org/1+Samuel+8-9;Psalm+55:9-15;Proverbs+15:15-17;Luke+22:1-23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-04-e58b026c5ec942a59dfa5ecff7df8f66@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Bible Reading — May 4
+DESCRIPTION:OT: 1 Sa 10-11\nPsalm: 55:16-23\nProverbs: 15:18-20\nNT: Lk 22:24-46\nESV: https://www.esv.org/1+Samuel+10-11\;Psalm+55:16-23\;Proverbs+15:18-20\;Luke+22:24-46
+URL:https://www.esv.org/1+Samuel+10-11;Psalm+55:16-23;Proverbs+15:18-20;Luke+22:24-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-05-95c79e274c06486ba9e0d486464607f4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Bible Reading — May 5
+DESCRIPTION:OT: 1 Sa 12-13\nPsalm: 56\nProverbs: 15:21-23\nNT: Lk 22:47-71\nESV: https://www.esv.org/1+Samuel+12-13\;Psalm+56\;Proverbs+15:21-23\;Luke+22:47-71
+URL:https://www.esv.org/1+Samuel+12-13;Psalm+56;Proverbs+15:21-23;Luke+22:47-71
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-06-ade6241beced42a1bd12efe0882ca9ca@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Bible Reading — May 6
+DESCRIPTION:OT: 1 Sa 14-15\nPsalm: 57:1-3\nProverbs: 15:24-25\nNT: Lk 23:1-25\nESV: https://www.esv.org/1+Samuel+14-15\;Psalm+57:1-3\;Proverbs+15:24-25\;Luke+23:1-25
+URL:https://www.esv.org/1+Samuel+14-15;Psalm+57:1-3;Proverbs+15:24-25;Luke+23:1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-07-3430c4ef32424dfd96707bbff232dc62@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Bible Reading — May 7
+DESCRIPTION:OT: 1 Sa 16-17\nPsalm: 57:4-11\nProverbs: 15:26\nNT: Lk 23:26-56\nESV: https://www.esv.org/1+Samuel+16-17\;Psalm+57:4-11\;Proverbs+15:26\;Luke+23:26-56
+URL:https://www.esv.org/1+Samuel+16-17;Psalm+57:4-11;Proverbs+15:26;Luke+23:26-56
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-69315d72fb1744cf8ae5c7d7e1091c53@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Bible Reading — May 8
+DESCRIPTION:OT: 1 Sa 18-19\nPsalm: 58\nProverbs: 15:27-30\nNT: Lk 24:1-35\nESV: https://www.esv.org/1+Samuel+18-19\;Psalm+58\;Proverbs+15:27-30\;Luke+24:1-35
+URL:https://www.esv.org/1+Samuel+18-19;Psalm+58;Proverbs+15:27-30;Luke+24:1-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-79bf67850ff8418a9b0c94d4fa9f0c46@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Bible Reading — May 9
+DESCRIPTION:OT: 1 Sa 20-21\nPsalm: 59:1-5\nProverbs: 15:31-33\nNT: Lk 24:36-53\nESV: https://www.esv.org/1+Samuel+20-21\;Psalm+59:1-5\;Proverbs+15:31-33\;Luke+24:36-53
+URL:https://www.esv.org/1+Samuel+20-21;Psalm+59:1-5;Proverbs+15:31-33;Luke+24:36-53
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-10-6affc2f1451e4b659365787a3d5ca5e0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:Bible Reading — May 10
+DESCRIPTION:OT: 1 Sa 22-23\nPsalm: 59:6-17\nProverbs: 16:1-2\nNT: Jn 1:1-28\nESV: https://www.esv.org/1+Samuel+22-23\;Psalm+59:6-17\;Proverbs+16:1-2\;John+1:1-28
+URL:https://www.esv.org/1+Samuel+22-23;Psalm+59:6-17;Proverbs+16:1-2;John+1:1-28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-11-ad617e23111c42038213cbbde1449c73@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Bible Reading — May 11
+DESCRIPTION:OT: 1 Sa 24-25\nPsalm: 60:1-5\nProverbs: 16:3\nNT: Jn 1:29-51\nESV: https://www.esv.org/1+Samuel+24-25\;Psalm+60:1-5\;Proverbs+16:3\;John+1:29-51
+URL:https://www.esv.org/1+Samuel+24-25;Psalm+60:1-5;Proverbs+16:3;John+1:29-51
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-12-71db8d2818bf45a19c600bd632a0406b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Bible Reading — May 12
+DESCRIPTION:OT: 1 Sa 26-27\nPsalm: 60:6-12\nProverbs: 16:4-5\nNT: Jn 2\nESV: https://www.esv.org/1+Samuel+26-27\;Psalm+60:6-12\;Proverbs+16:4-5\;John+2
+URL:https://www.esv.org/1+Samuel+26-27;Psalm+60:6-12;Proverbs+16:4-5;John+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-13-7757fda8346f43119fcbfd071ed7a8c4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Bible Reading — May 13
+DESCRIPTION:OT: 1 Sa 28\nPsalm: 61:1-4\nProverbs: 16:6\nNT: Jn 3:1-17\nESV: https://www.esv.org/1+Samuel+28\;Psalm+61:1-4\;Proverbs+16:6\;John+3:1-17
+URL:https://www.esv.org/1+Samuel+28;Psalm+61:1-4;Proverbs+16:6;John+3:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-14-e22280acf6684030a27e51ed84a6feea@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Bible Reading — May 14
+DESCRIPTION:OT: 1 Sa 29-31\nPsalm: 61:5-8\nProverbs: 16:7-9\nNT: Jn 3:18-36\nESV: https://www.esv.org/1+Samuel+29-31\;Psalm+61:5-8\;Proverbs+16:7-9\;John+3:18-36
+URL:https://www.esv.org/1+Samuel+29-31;Psalm+61:5-8;Proverbs+16:7-9;John+3:18-36
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-40f6a4304f344f71b25263b8d855cf8d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Bible Reading — May 15
+DESCRIPTION:OT: 2 Sa 1-2\nPsalm: 62:1-4\nProverbs: 16:10-12\nNT: Jn 4:1-30\nESV: https://www.esv.org/2+Samuel+1-2\;Psalm+62:1-4\;Proverbs+16:10-12\;John+4:1-30
+URL:https://www.esv.org/2+Samuel+1-2;Psalm+62:1-4;Proverbs+16:10-12;John+4:1-30
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-7195e7c4dc9e4973956bf223e3ae5757@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Bible Reading — May 16
+DESCRIPTION:OT: 2 Sa 3-4\nPsalm: 62:5-12\nProverbs: 16:13-15\nNT: Jn 4:31-54\nESV: https://www.esv.org/2+Samuel+3-4\;Psalm+62:5-12\;Proverbs+16:13-15\;John+4:31-54
+URL:https://www.esv.org/2+Samuel+3-4;Psalm+62:5-12;Proverbs+16:13-15;John+4:31-54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-17-a255ae64d5c740fdab9726ab1e884a7d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Bible Reading — May 17
+DESCRIPTION:OT: 2 Sa 5-6\nPsalm: 63\nProverbs: 16:16-17\nNT: Jn 5:1-23\nESV: https://www.esv.org/2+Samuel+5-6\;Psalm+63\;Proverbs+16:16-17\;John+5:1-23
+URL:https://www.esv.org/2+Samuel+5-6;Psalm+63;Proverbs+16:16-17;John+5:1-23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-18-84218ceabd4545b5a0abb0f7bec51b11@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Bible Reading — May 18
+DESCRIPTION:OT: 2 Sa 7-8\nPsalm: 64\nProverbs: 16:18-19\nNT: Jn 5:24-27\nESV: https://www.esv.org/2+Samuel+7-8\;Psalm+64\;Proverbs+16:18-19\;John+5:24-27
+URL:https://www.esv.org/2+Samuel+7-8;Psalm+64;Proverbs+16:18-19;John+5:24-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-19-ce7e6d296b1b4746a46af96a9babee47@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Bible Reading — May 19
+DESCRIPTION:OT: 2 Sa 9-10\nPsalm: 65:1-8\nProverbs: 16:20-21\nNT: Jn 6:1-21\nESV: https://www.esv.org/2+Samuel+9-10\;Psalm+65:1-8\;Proverbs+16:20-21\;John+6:1-21
+URL:https://www.esv.org/2+Samuel+9-10;Psalm+65:1-8;Proverbs+16:20-21;John+6:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-20-83fc1098ceae43b6b001aa48586e6d52@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Bible Reading — May 20
+DESCRIPTION:OT: 2 Sa 11-12\nPsalm: 65:9-13\nProverbs: 16:22-24\nNT: Jn 6:22-51\nESV: https://www.esv.org/2+Samuel+11-12\;Psalm+65:9-13\;Proverbs+16:22-24\;John+6:22-51
+URL:https://www.esv.org/2+Samuel+11-12;Psalm+65:9-13;Proverbs+16:22-24;John+6:22-51
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-21-9f5f4618e7a04b27b9b83cc4c721529a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Bible Reading — May 21
+DESCRIPTION:OT: 2 Sa 13-14\nPsalm: 66:1-7\nProverbs: 16:25-26\nNT: Jn 6:52-71\nESV: https://www.esv.org/2+Samuel+13-14\;Psalm+66:1-7\;Proverbs+16:25-26\;John+6:52-71
+URL:https://www.esv.org/2+Samuel+13-14;Psalm+66:1-7;Proverbs+16:25-26;John+6:52-71
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-4923b831aa584e9ca1c24cde0b1193ad@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Bible Reading — May 22
+DESCRIPTION:OT: 2 Sa 15-16\nPsalm: 66:8-15\nProverbs: 16:27-30\nNT: Jn 7:1-27\nESV: https://www.esv.org/2+Samuel+15-16\;Psalm+66:8-15\;Proverbs+16:27-30\;John+7:1-27
+URL:https://www.esv.org/2+Samuel+15-16;Psalm+66:8-15;Proverbs+16:27-30;John+7:1-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-56809cda24d945fcaefd3db56c8eba12@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Bible Reading — May 23
+DESCRIPTION:OT: 2 Sa 17-18\nPsalm: 66:16-20\nProverbs: 16:31-32\nNT: Jn 7:28-53\nESV: https://www.esv.org/2+Samuel+17-18\;Psalm+66:16-20\;Proverbs+16:31-32\;John+7:28-53
+URL:https://www.esv.org/2+Samuel+17-18;Psalm+66:16-20;Proverbs+16:31-32;John+7:28-53
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-24-f50bc754c1104716ae92a4e7871e15d2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Bible Reading — May 24
+DESCRIPTION:OT: 2 Sa 19-20\nPsalm: 67\nProverbs: 16:33-17:1\nNT: Jn 8:1-27\nESV: https://www.esv.org/2+Samuel+19-20\;Psalm+67\;Proverbs+16:33-17:1\;John+8:1-27
+URL:https://www.esv.org/2+Samuel+19-20;Psalm+67;Proverbs+16:33-17:1;John+8:1-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-25-8fb3380dc1214ed8a58f146c543b750c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Bible Reading — May 25
+DESCRIPTION:OT: 2 Sa 21-22\nPsalm: 68:1-6\nProverbs: 17:2-4\nNT: Jn 8:28-59\nESV: https://www.esv.org/2+Samuel+21-22\;Psalm+68:1-6\;Proverbs+17:2-4\;John+8:28-59
+URL:https://www.esv.org/2+Samuel+21-22;Psalm+68:1-6;Proverbs+17:2-4;John+8:28-59
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-26-db797334815f4262b733d16c61e76bb4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Bible Reading — May 26
+DESCRIPTION:OT: 2 Sa 23-24\nPsalm: 68:7-10\nProverbs: 17:5-6\nNT: Jn 9:1-23\nESV: https://www.esv.org/2+Samuel+23-24\;Psalm+68:7-10\;Proverbs+17:5-6\;John+9:1-23
+URL:https://www.esv.org/2+Samuel+23-24;Psalm+68:7-10;Proverbs+17:5-6;John+9:1-23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-27-098b0278ede24dd18795f428eaeb99fc@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Bible Reading — May 27
+DESCRIPTION:OT: 1 Ki 1-2\nPsalm: 68:11-14\nProverbs: 17:7-9\nNT: Jn 9:24-41\nESV: https://www.esv.org/1+Kings+1-2\;Psalm+68:11-14\;Proverbs+17:7-9\;John+9:24-41
+URL:https://www.esv.org/1+Kings+1-2;Psalm+68:11-14;Proverbs+17:7-9;John+9:24-41
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-28-f5f5f9f497654ae4947152c4671a72c2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Bible Reading — May 28
+DESCRIPTION:OT: 1 Ki 3-4\nPsalm: 68:15-20\nProverbs: 17:10-12\nNT: Jn 10:1-21\nESV: https://www.esv.org/1+Kings+3-4\;Psalm+68:15-20\;Proverbs+17:10-12\;John+10:1-21
+URL:https://www.esv.org/1+Kings+3-4;Psalm+68:15-20;Proverbs+17:10-12;John+10:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-29-172da8475e0c44869815a7102c251199@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Bible Reading — May 29
+DESCRIPTION:OT: 1 Ki 5-6\nPsalm: 68:21-27\nProverbs: 17:13-15\nNT: Jn 10:22-42\nESV: https://www.esv.org/1+Kings+5-6\;Psalm+68:21-27\;Proverbs+17:13-15\;John+10:22-42
+URL:https://www.esv.org/1+Kings+5-6;Psalm+68:21-27;Proverbs+17:13-15;John+10:22-42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-da60e0318e6943f9a6f9e68c457419e2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Bible Reading — May 30
+DESCRIPTION:OT: 1 Ki 7-8\nPsalm: 68:28-35\nProverbs: 17:16-17\nNT: Jn 11:1-27\nESV: https://www.esv.org/1+Kings+7-8\;Psalm+68:28-35\;Proverbs+17:16-17\;John+11:1-27
+URL:https://www.esv.org/1+Kings+7-8;Psalm+68:28-35;Proverbs+17:16-17;John+11:1-27
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-31-8183d9bfc7d94f578a08b6f7f8aee310@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Bible Reading — May 31
+DESCRIPTION:OT: 1 Ki 9-10\nPsalm: 69:1-4\nProverbs: 17:18-19\nNT: Jn 11:28-57\nESV: https://www.esv.org/1+Kings+9-10\;Psalm+69:1-4\;Proverbs+17:18-19\;John+11:28-57
+URL:https://www.esv.org/1+Kings+9-10;Psalm+69:1-4;Proverbs+17:18-19;John+11:28-57
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-01-31dd4f3e85f64eebb244fdafcc190aa8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Bible Reading — Jun 1
+DESCRIPTION:OT: 1 Ki 11-12\nPsalm: 69:5-15\nProverbs: 17:20-22\nNT: Jn 12:1-26\nESV: https://www.esv.org/1+Kings+11-12\;Psalm+69:5-15\;Proverbs+17:20-22\;John+12:1-26
+URL:https://www.esv.org/1+Kings+11-12;Psalm+69:5-15;Proverbs+17:20-22;John+12:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-02-30e007971a834ce7bf013ab24ab2c82a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Bible Reading — Jun 2
+DESCRIPTION:OT: 1 Ki 13-14\nPsalm: 69:16-21\nProverbs: 17:23-24\nNT: Jn 12:27-50\nESV: https://www.esv.org/1+Kings+13-14\;Psalm+69:16-21\;Proverbs+17:23-24\;John+12:27-50
+URL:https://www.esv.org/1+Kings+13-14;Psalm+69:16-21;Proverbs+17:23-24;John+12:27-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-03-e0bdd06d8bb84e68b96b88af512f0b19@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Bible Reading — Jun 3
+DESCRIPTION:OT: 1 Ki 15-16\nPsalm: 69:22-28\nProverbs: 17:25-26\nNT: Jn 13:1-20\nESV: https://www.esv.org/1+Kings+15-16\;Psalm+69:22-28\;Proverbs+17:25-26\;John+13:1-20
+URL:https://www.esv.org/1+Kings+15-16;Psalm+69:22-28;Proverbs+17:25-26;John+13:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-04-6981a42452bf49e68d014590a4da2652@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Bible Reading — Jun 4
+DESCRIPTION:OT: 1 Ki 17-18\nPsalm: 69:29-36\nProverbs: 17:27-28\nNT: Jn 13:21-38\nESV: https://www.esv.org/1+Kings+17-18\;Psalm+69:29-36\;Proverbs+17:27-28\;John+13:21-38
+URL:https://www.esv.org/1+Kings+17-18;Psalm+69:29-36;Proverbs+17:27-28;John+13:21-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-cf53e2319303447d95a87a0f226391cd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Bible Reading — Jun 5
+DESCRIPTION:OT: 1 Ki 19-20\nPsalm: 70\nProverbs: 18:1-2\nNT: Jn 14\nESV: https://www.esv.org/1+Kings+19-20\;Psalm+70\;Proverbs+18:1-2\;John+14
+URL:https://www.esv.org/1+Kings+19-20;Psalm+70;Proverbs+18:1-2;John+14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-ef1d2c3464c34fb28a5f835bfa229d09@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Bible Reading — Jun 6
+DESCRIPTION:OT: 1 Ki 21-22\nPsalm: 71:1-8\nProverbs: 18:3-5\nNT: Jn 15\nESV: https://www.esv.org/1+Kings+21-22\;Psalm+71:1-8\;Proverbs+18:3-5\;John+15
+URL:https://www.esv.org/1+Kings+21-22;Psalm+71:1-8;Proverbs+18:3-5;John+15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-07-bff8bf9eb0f44c71a90e2eacad4aeeea@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Bible Reading — Jun 7
+DESCRIPTION:OT: 2 Ki 1-2\nPsalm: 71:9-16\nProverbs: 18:6-8\nNT: Jn 16\nESV: https://www.esv.org/2+Kings+1-2\;Psalm+71:9-16\;Proverbs+18:6-8\;John+16
+URL:https://www.esv.org/2+Kings+1-2;Psalm+71:9-16;Proverbs+18:6-8;John+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-08-31ba4404cc5a414f84a4782009e3edab@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Bible Reading — Jun 8
+DESCRIPTION:OT: 2 Ki 3-4\nPsalm: 71:17-24\nProverbs: 18:9\nNT: Jn 17\nESV: https://www.esv.org/2+Kings+3-4\;Psalm+71:17-24\;Proverbs+18:9\;John+17
+URL:https://www.esv.org/2+Kings+3-4;Psalm+71:17-24;Proverbs+18:9;John+17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-09-40c5c45182d541338f423d08a93ff827@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Bible Reading — Jun 9
+DESCRIPTION:OT: 2 Ki 5-6\nPsalm: 72:1-7\nProverbs: 18:10-11\nNT: Jn 18:1-18\nESV: https://www.esv.org/2+Kings+5-6\;Psalm+72:1-7\;Proverbs+18:10-11\;John+18:1-18
+URL:https://www.esv.org/2+Kings+5-6;Psalm+72:1-7;Proverbs+18:10-11;John+18:1-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-10-498b9a20ee64489a8dec4950ba633b27@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Bible Reading — Jun 10
+DESCRIPTION:OT: 2 Ki 7-8\nPsalm: 72:8-16\nProverbs: 18:12-13\nNT: Jn 18:19-40\nESV: https://www.esv.org/2+Kings+7-8\;Psalm+72:8-16\;Proverbs+18:12-13\;John+18:19-40
+URL:https://www.esv.org/2+Kings+7-8;Psalm+72:8-16;Proverbs+18:12-13;John+18:19-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-11-b032a61d1f8b460da9618ef9ce95c3c8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Bible Reading — Jun 11
+DESCRIPTION:OT: 2 Ki 9-10\nPsalm: 72:17-20\nProverbs: 18:14-15\nNT: Jn 19:1-22\nESV: https://www.esv.org/2+Kings+9-10\;Psalm+72:17-20\;Proverbs+18:14-15\;John+19:1-22
+URL:https://www.esv.org/2+Kings+9-10;Psalm+72:17-20;Proverbs+18:14-15;John+19:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-3c4dd9fe34214546abe2260de58d1153@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Bible Reading — Jun 12
+DESCRIPTION:OT: 2 Ki 11-13\nPsalm: 73:1-9\nProverbs: 18:16-17\nNT: Jn 19:23-42\nESV: https://www.esv.org/2+Kings+11-13\;Psalm+73:1-9\;Proverbs+18:16-17\;John+19:23-42
+URL:https://www.esv.org/2+Kings+11-13;Psalm+73:1-9;Proverbs+18:16-17;John+19:23-42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-90920e0487354676bf693e9f51a50558@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Bible Reading — Jun 13
+DESCRIPTION:OT: 2 Ki 14\nPsalm: 73:10-20\nProverbs: 18:18-19\nNT: Jn 20\nESV: https://www.esv.org/2+Kings+14\;Psalm+73:10-20\;Proverbs+18:18-19\;John+20
+URL:https://www.esv.org/2+Kings+14;Psalm+73:10-20;Proverbs+18:18-19;John+20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-14-950b9a19f67644beab6016fc382e0d97@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Bible Reading — Jun 14
+DESCRIPTION:OT: 2 Ki 15-16\nPsalm: 73:21-28\nProverbs: 18:20-21\nNT: Jn 21\nESV: https://www.esv.org/2+Kings+15-16\;Psalm+73:21-28\;Proverbs+18:20-21\;John+21
+URL:https://www.esv.org/2+Kings+15-16;Psalm+73:21-28;Proverbs+18:20-21;John+21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-15-3591a08f61b248028f0251dc1d51b101@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Bible Reading — Jun 15
+DESCRIPTION:OT: 2 Ki 17-18\nPsalm: 74:1-8\nProverbs: 18:22-24\nNT: Ac 1\nESV: https://www.esv.org/2+Kings+17-18\;Psalm+74:1-8\;Proverbs+18:22-24\;Acts+1
+URL:https://www.esv.org/2+Kings+17-18;Psalm+74:1-8;Proverbs+18:22-24;Acts+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-16-1214c37d62904909a4c355acdc538c5a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Bible Reading — Jun 16
+DESCRIPTION:OT: 2 Ki 19-21\nPsalm: 74:9-17\nProverbs: 19:1-2\nNT: Ac 2:1-21\nESV: https://www.esv.org/2+Kings+19-21\;Psalm+74:9-17\;Proverbs+19:1-2\;Acts+2:1-21
+URL:https://www.esv.org/2+Kings+19-21;Psalm+74:9-17;Proverbs+19:1-2;Acts+2:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-17-5ead902af66c4e168ba6ea61c26d8e35@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Bible Reading — Jun 17
+DESCRIPTION:OT: 2 Ki 22-24\nPsalm: 74:18-23\nProverbs: 19:3\nNT: Ac 2:22-47\nESV: https://www.esv.org/2+Kings+22-24\;Psalm+74:18-23\;Proverbs+19:3\;Acts+2:22-47
+URL:https://www.esv.org/2+Kings+22-24;Psalm+74:18-23;Proverbs+19:3;Acts+2:22-47
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-18-d1ec558f751d4e28af5c887789e6a4a5@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Bible Reading — Jun 18
+DESCRIPTION:OT: 2 Ki 25\nPsalm: 75\nProverbs: 19:4-5\nNT: Ac 3\nESV: https://www.esv.org/2+Kings+25\;Psalm+75\;Proverbs+19:4-5\;Acts+3
+URL:https://www.esv.org/2+Kings+25;Psalm+75;Proverbs+19:4-5;Acts+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-19-9d29791dd26c44c69bb4c3c360bdf2b6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Bible Reading — Jun 19
+DESCRIPTION:OT: 1 Ch 1-2\nPsalm: 76:1-6\nProverbs: 19:6-7\nNT: Ac 4:1-22\nESV: https://www.esv.org/1+Chronicles+1-2\;Psalm+76:1-6\;Proverbs+19:6-7\;Acts+4:1-22
+URL:https://www.esv.org/1+Chronicles+1-2;Psalm+76:1-6;Proverbs+19:6-7;Acts+4:1-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-64a7d4e25f3b4abe8f6f3237c5258eec@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Bible Reading — Jun 20
+DESCRIPTION:OT: 1 Ch 3-4\nPsalm: 76:7-12\nProverbs: 19:8-9\nNT: Ac 4:23-37\nESV: https://www.esv.org/1+Chronicles+3-4\;Psalm+76:7-12\;Proverbs+19:8-9\;Acts+4:23-37
+URL:https://www.esv.org/1+Chronicles+3-4;Psalm+76:7-12;Proverbs+19:8-9;Acts+4:23-37
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-21-8641caf667c04479984c47d36d888bec@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Bible Reading — Jun 21
+DESCRIPTION:OT: 1 Ch 5-6\nPsalm: 77:1-3\nProverbs: 19:10-12\nNT: Ac 5:1-21\nESV: https://www.esv.org/1+Chronicles+5-6\;Psalm+77:1-3\;Proverbs+19:10-12\;Acts+5:1-21
+URL:https://www.esv.org/1+Chronicles+5-6;Psalm+77:1-3;Proverbs+19:10-12;Acts+5:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-22-5e3fa77eb89e4ccb8371236d1e515da6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Bible Reading — Jun 22
+DESCRIPTION:OT: 1 Ch 7-8\nPsalm: 77:4-9\nProverbs: 19:13-14\nNT: Ac 5:22-42\nESV: https://www.esv.org/1+Chronicles+7-8\;Psalm+77:4-9\;Proverbs+19:13-14\;Acts+5:22-42
+URL:https://www.esv.org/1+Chronicles+7-8;Psalm+77:4-9;Proverbs+19:13-14;Acts+5:22-42
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-23-75ed881f279d4cbca429257b81e922a2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Bible Reading — Jun 23
+DESCRIPTION:OT: 1 Ch 9-10\nPsalm: 77:10-15\nProverbs: 19:15-16\nNT: Ac 6\nESV: https://www.esv.org/1+Chronicles+9-10\;Psalm+77:10-15\;Proverbs+19:15-16\;Acts+6
+URL:https://www.esv.org/1+Chronicles+9-10;Psalm+77:10-15;Proverbs+19:15-16;Acts+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-24-0cbd917f837a44628d1a38bb6d11af28@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Bible Reading — Jun 24
+DESCRIPTION:OT: 1 Ch 11-12\nPsalm: 77:16-20\nProverbs: 19:17-19\nNT: Ac 7:1-16\nESV: https://www.esv.org/1+Chronicles+11-12\;Psalm+77:16-20\;Proverbs+19:17-19\;Acts+7:1-16
+URL:https://www.esv.org/1+Chronicles+11-12;Psalm+77:16-20;Proverbs+19:17-19;Acts+7:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-25-2f9c9119e3d54b349d0683176200a184@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Bible Reading — Jun 25
+DESCRIPTION:OT: 1 Ch 13-14\nPsalm: 78:1-11\nProverbs: 19:20-21\nNT: Ac 7:17-43\nESV: https://www.esv.org/1+Chronicles+13-14\;Psalm+78:1-11\;Proverbs+19:20-21\;Acts+7:17-43
+URL:https://www.esv.org/1+Chronicles+13-14;Psalm+78:1-11;Proverbs+19:20-21;Acts+7:17-43
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-f504ec409907455e873dede087f74ffb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Bible Reading — Jun 26
+DESCRIPTION:OT: 1 Ch 15-16\nPsalm: 78:12-16\nProverbs: 19:22-24\nNT: Ac 7:44-60\nESV: https://www.esv.org/1+Chronicles+15-16\;Psalm+78:12-16\;Proverbs+19:22-24\;Acts+7:44-60
+URL:https://www.esv.org/1+Chronicles+15-16;Psalm+78:12-16;Proverbs+19:22-24;Acts+7:44-60
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-678ae30d663a4f678a8250c275192568@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Bible Reading — Jun 27
+DESCRIPTION:OT: 1 Ch 17-18\nPsalm: 78:17-25\nProverbs: 19:25-26\nNT: Ac 8:1-25\nESV: https://www.esv.org/1+Chronicles+17-18\;Psalm+78:17-25\;Proverbs+19:25-26\;Acts+8:1-25
+URL:https://www.esv.org/1+Chronicles+17-18;Psalm+78:17-25;Proverbs+19:25-26;Acts+8:1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-28-bfa3f87f24b644caa694be15b24137a9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Bible Reading — Jun 28
+DESCRIPTION:OT: 1 Ch 19-20\nPsalm: 78:26-33\nProverbs: 19:27-29\nNT: Ac 8:26-40\nESV: https://www.esv.org/1+Chronicles+19-20\;Psalm+78:26-33\;Proverbs+19:27-29\;Acts+8:26-40
+URL:https://www.esv.org/1+Chronicles+19-20;Psalm+78:26-33;Proverbs+19:27-29;Acts+8:26-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-29-1ba6a10482bf429cb0c0bca4ddb6a390@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Bible Reading — Jun 29
+DESCRIPTION:OT: 1 Ch 21-22\nPsalm: 78:34-39\nProverbs: 20:1-2\nNT: Ac 9:1-21\nESV: https://www.esv.org/1+Chronicles+21-22\;Psalm+78:34-39\;Proverbs+20:1-2\;Acts+9:1-21
+URL:https://www.esv.org/1+Chronicles+21-22;Psalm+78:34-39;Proverbs+20:1-2;Acts+9:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-30-a5fd061427c44fddad93bf4afdb56b33@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Bible Reading — Jun 30
+DESCRIPTION:OT: 1 Ch 23-25\nPsalm: 78:40-55\nProverbs: 20:3\nNT: Ac 9:22-43\nESV: https://www.esv.org/1+Chronicles+23-25\;Psalm+78:40-55\;Proverbs+20:3\;Acts+9:22-43
+URL:https://www.esv.org/1+Chronicles+23-25;Psalm+78:40-55;Proverbs+20:3;Acts+9:22-43
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-01-0c3fcd888d5942058e002e271ecec843@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Bible Reading — Jul 1
+DESCRIPTION:OT: 1 Ch 26-27\nPsalm: 78:56-66\nProverbs: 20:4-5\nNT: Ac 10:1-23\nESV: https://www.esv.org/1+Chronicles+26-27\;Psalm+78:56-66\;Proverbs+20:4-5\;Acts+10:1-23
+URL:https://www.esv.org/1+Chronicles+26-27;Psalm+78:56-66;Proverbs+20:4-5;Acts+10:1-23
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-02-5d069788e3c041bd9dd099273e33cacd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Bible Reading — Jul 2
+DESCRIPTION:OT: 1 Ch 28-29\nPsalm: 78:67-72\nProverbs: 20:6-7\nNT: Ac 10:24-48\nESV: https://www.esv.org/1+Chronicles+28-29\;Psalm+78:67-72\;Proverbs+20:6-7\;Acts+10:24-48
+URL:https://www.esv.org/1+Chronicles+28-29;Psalm+78:67-72;Proverbs+20:6-7;Acts+10:24-48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-67cbcf45872d44eea19d05fc0b2811d7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Bible Reading — Jul 3
+DESCRIPTION:OT: 2 Ch 1-2\nPsalm: 79:1-4\nProverbs: 20:8-9\nNT: Ac 11\nESV: https://www.esv.org/2+Chronicles+1-2\;Psalm+79:1-4\;Proverbs+20:8-9\;Acts+11
+URL:https://www.esv.org/2+Chronicles+1-2;Psalm+79:1-4;Proverbs+20:8-9;Acts+11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-eda83e84e41e4d518df70e24b66d2a68@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Bible Reading — Jul 4
+DESCRIPTION:OT: 2 Ch 3-4\nPsalm: 79:5-10\nProverbs: 20:10-12\nNT: Ac 12\nESV: https://www.esv.org/2+Chronicles+3-4\;Psalm+79:5-10\;Proverbs+20:10-12\;Acts+12
+URL:https://www.esv.org/2+Chronicles+3-4;Psalm+79:5-10;Proverbs+20:10-12;Acts+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-05-8ba223317b184d9bb70dc53960e5c516@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Bible Reading — Jul 5
+DESCRIPTION:OT: 2 Ch 5-6\nPsalm: 79:11-13\nProverbs: 20:13-14\nNT: Ac 13:1-25\nESV: https://www.esv.org/2+Chronicles+5-6\;Psalm+79:11-13\;Proverbs+20:13-14\;Acts+13:1-25
+URL:https://www.esv.org/2+Chronicles+5-6;Psalm+79:11-13;Proverbs+20:13-14;Acts+13:1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-06-ddfa047d6ed943f58e07c97e6adf24a2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Bible Reading — Jul 6
+DESCRIPTION:OT: 2 Ch 7-8\nPsalm: 80:1-6\nProverbs: 20:15\nNT: Ac 13:26-52\nESV: https://www.esv.org/2+Chronicles+7-8\;Psalm+80:1-6\;Proverbs+20:15\;Acts+13:26-52
+URL:https://www.esv.org/2+Chronicles+7-8;Psalm+80:1-6;Proverbs+20:15;Acts+13:26-52
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-07-9f4d9988d04d430e8fc6825da6c51131@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Bible Reading — Jul 7
+DESCRIPTION:OT: 2 Ch 9-10\nPsalm: 80:7-13\nProverbs: 20:16-18\nNT: Ac 14\nESV: https://www.esv.org/2+Chronicles+9-10\;Psalm+80:7-13\;Proverbs+20:16-18\;Acts+14
+URL:https://www.esv.org/2+Chronicles+9-10;Psalm+80:7-13;Proverbs+20:16-18;Acts+14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-08-544d103bd5f64ccda44fdff341e42a77@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Bible Reading — Jul 8
+DESCRIPTION:OT: 2 Ch 11-12\nPsalm: 80:14-19\nProverbs: 20:19-21\nNT: Ac 15:1-21\nESV: https://www.esv.org/2+Chronicles+11-12\;Psalm+80:14-19\;Proverbs+20:19-21\;Acts+15:1-21
+URL:https://www.esv.org/2+Chronicles+11-12;Psalm+80:14-19;Proverbs+20:19-21;Acts+15:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-09-49dd4858befd4cbe9b30a0aa124dfb50@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Bible Reading — Jul 9
+DESCRIPTION:OT: 2 Ch 13-14\nPsalm: 81:1-5\nProverbs: 20:22-23\nNT: Ac 15:22-41\nESV: https://www.esv.org/2+Chronicles+13-14\;Psalm+81:1-5\;Proverbs+20:22-23\;Acts+15:22-41
+URL:https://www.esv.org/2+Chronicles+13-14;Psalm+81:1-5;Proverbs+20:22-23;Acts+15:22-41
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-4f266de6ee3746fe90478e47c64aa35f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Bible Reading — Jul 10
+DESCRIPTION:OT: 2 Ch 15-16\nPsalm: 81:6-10\nProverbs: 20:24-25\nNT: Ac 16:1-19\nESV: https://www.esv.org/2+Chronicles+15-16\;Psalm+81:6-10\;Proverbs+20:24-25\;Acts+16:1-19
+URL:https://www.esv.org/2+Chronicles+15-16;Psalm+81:6-10;Proverbs+20:24-25;Acts+16:1-19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-5e4d714e501f436c92ae7e47fb9fe966@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Bible Reading — Jul 11
+DESCRIPTION:OT: 2 Ch 17-18\nPsalm: 81:11-16\nProverbs: 20:26-28\nNT: Ac 16:20-40\nESV: https://www.esv.org/2+Chronicles+17-18\;Psalm+81:11-16\;Proverbs+20:26-28\;Acts+16:20-40
+URL:https://www.esv.org/2+Chronicles+17-18;Psalm+81:11-16;Proverbs+20:26-28;Acts+16:20-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-12-f187d97a33a74a0894e4fb54091b372a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Bible Reading — Jul 12
+DESCRIPTION:OT: 2 Ch 19-20\nPsalm: 82\nProverbs: 20:29-30\nNT: Ac 17:1-15\nESV: https://www.esv.org/2+Chronicles+19-20\;Psalm+82\;Proverbs+20:29-30\;Acts+17:1-15
+URL:https://www.esv.org/2+Chronicles+19-20;Psalm+82;Proverbs+20:29-30;Acts+17:1-15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-13-390744c9bde940f392e7a64030659f3c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Bible Reading — Jul 13
+DESCRIPTION:OT: 2 Ch 21-22\nPsalm: 83:1-8\nProverbs: 21:1\nNT: Ac 17:16-34\nESV: https://www.esv.org/2+Chronicles+21-22\;Psalm+83:1-8\;Proverbs+21:1\;Acts+17:16-34
+URL:https://www.esv.org/2+Chronicles+21-22;Psalm+83:1-8;Proverbs+21:1;Acts+17:16-34
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-14-eb552968e9e34af69bcc0d7245157dcc@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Bible Reading — Jul 14
+DESCRIPTION:OT: 2 Ch 23-24\nPsalm: 83:9-18\nProverbs: 21:2-3\nNT: Ac 18\nESV: https://www.esv.org/2+Chronicles+23-24\;Psalm+83:9-18\;Proverbs+21:2-3\;Acts+18
+URL:https://www.esv.org/2+Chronicles+23-24;Psalm+83:9-18;Proverbs+21:2-3;Acts+18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-15-d16399deb27b4e688feff44d7377e743@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Bible Reading — Jul 15
+DESCRIPTION:OT: 2 Ch 25-27\nPsalm: 84:1-7\nProverbs: 21:4-5\nNT: Ac 19:1-20\nESV: https://www.esv.org/2+Chronicles+25-27\;Psalm+84:1-7\;Proverbs+21:4-5\;Acts+19:1-20
+URL:https://www.esv.org/2+Chronicles+25-27;Psalm+84:1-7;Proverbs+21:4-5;Acts+19:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-16-701aa10f5c054043afef51b6d4358ff9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Bible Reading — Jul 16
+DESCRIPTION:OT: 2 Ch 28-29\nPsalm: 84:8-12\nProverbs: 21:6-8\nNT: Ac 19:21-41\nESV: https://www.esv.org/2+Chronicles+28-29\;Psalm+84:8-12\;Proverbs+21:6-8\;Acts+19:21-41
+URL:https://www.esv.org/2+Chronicles+28-29;Psalm+84:8-12;Proverbs+21:6-8;Acts+19:21-41
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-f0217045953d4af18e070e04ed7bd456@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Bible Reading — Jul 17
+DESCRIPTION:OT: 2 Ch 30-31\nPsalm: 85:1-7\nProverbs: 21:9-11\nNT: Ac 20:1-16\nESV: https://www.esv.org/2+Chronicles+30-31\;Psalm+85:1-7\;Proverbs+21:9-11\;Acts+20:1-16
+URL:https://www.esv.org/2+Chronicles+30-31;Psalm+85:1-7;Proverbs+21:9-11;Acts+20:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-10cd981fe14a4c8bbd12ae04bbfefd81@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Bible Reading — Jul 18
+DESCRIPTION:OT: 2 Ch 32-33\nPsalm: 85:8-13\nProverbs: 21:12\nNT: Ac 20:17-38\nESV: https://www.esv.org/2+Chronicles+32-33\;Psalm+85:8-13\;Proverbs+21:12\;Acts+20:17-38
+URL:https://www.esv.org/2+Chronicles+32-33;Psalm+85:8-13;Proverbs+21:12;Acts+20:17-38
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-19-8a2ed508eba94b0fa8d320bc9ce0ef84@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Bible Reading — Jul 19
+DESCRIPTION:OT: 2 Ch 34-36\nPsalm: 86:1-5\nProverbs: 21:13-14\nNT: Ac 21:1-16\nESV: https://www.esv.org/2+Chronicles+34-36\;Psalm+86:1-5\;Proverbs+21:13-14\;Acts+21:1-16
+URL:https://www.esv.org/2+Chronicles+34-36;Psalm+86:1-5;Proverbs+21:13-14;Acts+21:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-20-328690abb45c4a73a24e3feb93de18fd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Bible Reading — Jul 20
+DESCRIPTION:OT: Ez 1-2\nPsalm: 86:6-10\nProverbs: 21:15-16\nNT: Ac 21:17-40\nESV: https://www.esv.org/Ezra+1-2\;Psalm+86:6-10\;Proverbs+21:15-16\;Acts+21:17-40
+URL:https://www.esv.org/Ezra+1-2;Psalm+86:6-10;Proverbs+21:15-16;Acts+21:17-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-21-d5243895718a41529518f909632bf581@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Bible Reading — Jul 21
+DESCRIPTION:OT: Ez 3-4\nPsalm: 86:11-17\nProverbs: 21:17-18\nNT: Ac 22\nESV: https://www.esv.org/Ezra+3-4\;Psalm+86:11-17\;Proverbs+21:17-18\;Acts+22
+URL:https://www.esv.org/Ezra+3-4;Psalm+86:11-17;Proverbs+21:17-18;Acts+22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-22-afe28334e9574ce0bd6d1e13999c40f4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Bible Reading — Jul 22
+DESCRIPTION:OT: Ez 5-6\nPsalm: 87\nProverbs: 21:19-20\nNT: Ac 23:1-15\nESV: https://www.esv.org/Ezra+5-6\;Psalm+87\;Proverbs+21:19-20\;Acts+23:1-15
+URL:https://www.esv.org/Ezra+5-6;Psalm+87;Proverbs+21:19-20;Acts+23:1-15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-23-96e58001c2894772927da1ab3fc1e644@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Bible Reading — Jul 23
+DESCRIPTION:OT: Ez 7-8\nPsalm: 88:1-5\nProverbs: 21:21-22\nNT: Ac 23:16-35\nESV: https://www.esv.org/Ezra+7-8\;Psalm+88:1-5\;Proverbs+21:21-22\;Acts+23:16-35
+URL:https://www.esv.org/Ezra+7-8;Psalm+88:1-5;Proverbs+21:21-22;Acts+23:16-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-e33bf913cab148cc86d92ccad8bca423@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Bible Reading — Jul 24
+DESCRIPTION:OT: Ez 9-10\nPsalm: 88:6-10\nProverbs: 21:23-24\nNT: Ac 24\nESV: https://www.esv.org/Ezra+9-10\;Psalm+88:6-10\;Proverbs+21:23-24\;Acts+24
+URL:https://www.esv.org/Ezra+9-10;Psalm+88:6-10;Proverbs+21:23-24;Acts+24
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-6c7373531d2a42378c6789b3365c48b6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Bible Reading — Jul 25
+DESCRIPTION:OT: Ne 1-2\nPsalm: 88:11-18\nProverbs: 21:25-26\nNT: Ac 25\nESV: https://www.esv.org/Nehemiah+1-2\;Psalm+88:11-18\;Proverbs+21:25-26\;Acts+25
+URL:https://www.esv.org/Nehemiah+1-2;Psalm+88:11-18;Proverbs+21:25-26;Acts+25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-26-e7a331fe32754d65b137983b26982820@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Bible Reading — Jul 26
+DESCRIPTION:OT: Ne 3-5\nPsalm: 89:1-4\nProverbs: 21:27\nNT: Ac 26\nESV: https://www.esv.org/Nehemiah+3-5\;Psalm+89:1-4\;Proverbs+21:27\;Acts+26
+URL:https://www.esv.org/Nehemiah+3-5;Psalm+89:1-4;Proverbs+21:27;Acts+26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-27-f13cecfa7796475eae3d23bbffd8c548@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Bible Reading — Jul 27
+DESCRIPTION:OT: Ne 6-7\nPsalm: 89:5-10\nProverbs: 21:28\nNT: Ac 27:1-26\nESV: https://www.esv.org/Nehemiah+6-7\;Psalm+89:5-10\;Proverbs+21:28\;Acts+27:1-26
+URL:https://www.esv.org/Nehemiah+6-7;Psalm+89:5-10;Proverbs+21:28;Acts+27:1-26
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-28-0f33e4156b1c4aa996feec9ba832a176@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Bible Reading — Jul 28
+DESCRIPTION:OT: Ne 8-9\nPsalm: 89:11-18\nProverbs: 21:29-31\nNT: Ac 27:27-44\nESV: https://www.esv.org/Nehemiah+8-9\;Psalm+89:11-18\;Proverbs+21:29-31\;Acts+27:27-44
+URL:https://www.esv.org/Nehemiah+8-9;Psalm+89:11-18;Proverbs+21:29-31;Acts+27:27-44
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-29-9c2130290e8842e1bdfcca37db2baba8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Bible Reading — Jul 29
+DESCRIPTION:OT: Ne 10-11\nPsalm: 89:19-29\nProverbs: 22:1-2\nNT: Ac 28\nESV: https://www.esv.org/Nehemiah+10-11\;Psalm+89:19-29\;Proverbs+22:1-2\;Acts+28
+URL:https://www.esv.org/Nehemiah+10-11;Psalm+89:19-29;Proverbs+22:1-2;Acts+28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-30-f2ebb237297c45dca431532ff5cfbcd0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Bible Reading — Jul 30
+DESCRIPTION:OT: Ne 12-13\nPsalm: 89:30-37\nProverbs: 22:3-4\nNT: Ro 1\nESV: https://www.esv.org/Nehemiah+12-13\;Psalm+89:30-37\;Proverbs+22:3-4\;Romans+1
+URL:https://www.esv.org/Nehemiah+12-13;Psalm+89:30-37;Proverbs+22:3-4;Romans+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-b62b5156727b444980e25d7028f45e31@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Bible Reading — Jul 31
+DESCRIPTION:OT: Es 1-2\nPsalm: 89:38-45\nProverbs: 22:5-6\nNT: Ro 2\nESV: https://www.esv.org/Esther+1-2\;Psalm+89:38-45\;Proverbs+22:5-6\;Romans+2
+URL:https://www.esv.org/Esther+1-2;Psalm+89:38-45;Proverbs+22:5-6;Romans+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-0e3b7238a74e425eb06d7f3ca29ba0ca@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Bible Reading — Aug 1
+DESCRIPTION:OT: Es 3-4\nPsalm: 89:46-52\nProverbs: 22:7-8\nNT: Ro 3\nESV: https://www.esv.org/Esther+3-4\;Psalm+89:46-52\;Proverbs+22:7-8\;Romans+3
+URL:https://www.esv.org/Esther+3-4;Psalm+89:46-52;Proverbs+22:7-8;Romans+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-02-608f447924294b1587d6b98131f340e2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Bible Reading — Aug 2
+DESCRIPTION:OT: Es 5-6\nPsalm: 90:1-6\nProverbs: 22:9\nNT: Ro 4\nESV: https://www.esv.org/Esther+5-6\;Psalm+90:1-6\;Proverbs+22:9\;Romans+4
+URL:https://www.esv.org/Esther+5-6;Psalm+90:1-6;Proverbs+22:9;Romans+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-03-729cb25eeb95464c8c97b9240b3c5c9f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Bible Reading — Aug 3
+DESCRIPTION:OT: Es 7-8\nPsalm: 90:7-17\nProverbs: 22:10-11\nNT: Ro 5\nESV: https://www.esv.org/Esther+7-8\;Psalm+90:7-17\;Proverbs+22:10-11\;Romans+5
+URL:https://www.esv.org/Esther+7-8;Psalm+90:7-17;Proverbs+22:10-11;Romans+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-04-8306d7be5dad4f0e9ef07ed0c6de3be7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Bible Reading — Aug 4
+DESCRIPTION:OT: Es 9-10\nPsalm: 91:1-6\nProverbs: 22:12\nNT: Ro 6\nESV: https://www.esv.org/Esther+9-10\;Psalm+91:1-6\;Proverbs+22:12\;Romans+6
+URL:https://www.esv.org/Esther+9-10;Psalm+91:1-6;Proverbs+22:12;Romans+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-05-790edb2442c148bfbcba9bc361e6b791@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Bible Reading — Aug 5
+DESCRIPTION:OT: Jb 1-2\nPsalm: 91:7-13\nProverbs: 22:13-14\nNT: Ro 7\nESV: https://www.esv.org/Job+1-2\;Psalm+91:7-13\;Proverbs+22:13-14\;Romans+7
+URL:https://www.esv.org/Job+1-2;Psalm+91:7-13;Proverbs+22:13-14;Romans+7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-06-9b9402cbd9494906b41ca665de0c8792@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:Bible Reading — Aug 6
+DESCRIPTION:OT: Jb 3-4\nPsalm: 91:14-16\nProverbs: 22:15\nNT: Ro 8:1-17\nESV: https://www.esv.org/Job+3-4\;Psalm+91:14-16\;Proverbs+22:15\;Romans+8:1-17
+URL:https://www.esv.org/Job+3-4;Psalm+91:14-16;Proverbs+22:15;Romans+8:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-f0975a662eb54e17978b878b431b5b5b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Bible Reading — Aug 7
+DESCRIPTION:OT: Jb 5-6\nPsalm: 92:1-7\nProverbs: 22:16\nNT: Ro 8:18-39\nESV: https://www.esv.org/Job+5-6\;Psalm+92:1-7\;Proverbs+22:16\;Romans+8:18-39
+URL:https://www.esv.org/Job+5-6;Psalm+92:1-7;Proverbs+22:16;Romans+8:18-39
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08-046dc7974f794bb69c7c41f415e96401@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Bible Reading — Aug 8
+DESCRIPTION:OT: Jb 7-8\nPsalm: 92:8-15\nProverbs: 22:17-21\nNT: Ro 9:1-13\nESV: https://www.esv.org/Job+7-8\;Psalm+92:8-15\;Proverbs+22:17-21\;Romans+9:1-13
+URL:https://www.esv.org/Job+7-8;Psalm+92:8-15;Proverbs+22:17-21;Romans+9:1-13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-09-b7dfc075ada14098b2c30e4a7028fa02@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Bible Reading — Aug 9
+DESCRIPTION:OT: Jb 9-10\nPsalm: 93\nProverbs: 22:22-23\nNT: Ro 9:14-33\nESV: https://www.esv.org/Job+9-10\;Psalm+93\;Proverbs+22:22-23\;Romans+9:14-33
+URL:https://www.esv.org/Job+9-10;Psalm+93;Proverbs+22:22-23;Romans+9:14-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-10-d7fa9a9e0a8d4ffa928f18d78c72a609@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Bible Reading — Aug 10
+DESCRIPTION:OT: Jb 11-12\nPsalm: 94:1-11\nProverbs: 22:24-25\nNT: Ro 10\nESV: https://www.esv.org/Job+11-12\;Psalm+94:1-11\;Proverbs+22:24-25\;Romans+10
+URL:https://www.esv.org/Job+11-12;Psalm+94:1-11;Proverbs+22:24-25;Romans+10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-11-7f11c503f3ab4695a0b4e73b024cb36b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Bible Reading — Aug 11
+DESCRIPTION:OT: Jb 13-14\nPsalm: 94:12-19\nProverbs: 22:26-27\nNT: Ro 11:1-18\nESV: https://www.esv.org/Job+13-14\;Psalm+94:12-19\;Proverbs+22:26-27\;Romans+11:1-18
+URL:https://www.esv.org/Job+13-14;Psalm+94:12-19;Proverbs+22:26-27;Romans+11:1-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12-49d653457c734a089dd8437aca2e1d89@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Bible Reading — Aug 12
+DESCRIPTION:OT: Jb 15-16\nPsalm: 94:20-23\nProverbs: 22:28-29\nNT: Ro 11:19-36\nESV: https://www.esv.org/Job+15-16\;Psalm+94:20-23\;Proverbs+22:28-29\;Romans+11:19-36
+URL:https://www.esv.org/Job+15-16;Psalm+94:20-23;Proverbs+22:28-29;Romans+11:19-36
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13-8cad3061c4c54d80bafd4743c91fed92@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Bible Reading — Aug 13
+DESCRIPTION:OT: Jb 17-18\nPsalm: 95:1-5\nProverbs: 23:1-3\nNT: Ro 12\nESV: https://www.esv.org/Job+17-18\;Psalm+95:1-5\;Proverbs+23:1-3\;Romans+12
+URL:https://www.esv.org/Job+17-18;Psalm+95:1-5;Proverbs+23:1-3;Romans+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14-24548dcda8ca4469bc3421b25957f840@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Bible Reading — Aug 14
+DESCRIPTION:OT: Jb 19-20\nPsalm: 95:6-11\nProverbs: 23:4-5\nNT: Ro 13\nESV: https://www.esv.org/Job+19-20\;Psalm+95:6-11\;Proverbs+23:4-5\;Romans+13
+URL:https://www.esv.org/Job+19-20;Psalm+95:6-11;Proverbs+23:4-5;Romans+13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-1ed011bbc1df40eba175ebf952f69593@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Bible Reading — Aug 15
+DESCRIPTION:OT: Jb 21-22\nPsalm: 96:1-6\nProverbs: 23:6-8\nNT: Ro 14\nESV: https://www.esv.org/Job+21-22\;Psalm+96:1-6\;Proverbs+23:6-8\;Romans+14
+URL:https://www.esv.org/Job+21-22;Psalm+96:1-6;Proverbs+23:6-8;Romans+14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-16-7c17497d6f274520943b83cd38c0c94b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Bible Reading — Aug 16
+DESCRIPTION:OT: Jb 23-25\nPsalm: 96:7-10\nProverbs: 23:9\nNT: Ro 15:1-21\nESV: https://www.esv.org/Job+23-25\;Psalm+96:7-10\;Proverbs+23:9\;Romans+15:1-21
+URL:https://www.esv.org/Job+23-25;Psalm+96:7-10;Proverbs+23:9;Romans+15:1-21
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-17-d4899aa9a36849ac97f7d5565c44989b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Bible Reading — Aug 17
+DESCRIPTION:OT: Jb 26\nPsalm: 96:11-13\nProverbs: 23:10-12\nNT: Ro 15:22-33\nESV: https://www.esv.org/Job+26\;Psalm+96:11-13\;Proverbs+23:10-12\;Romans+15:22-33
+URL:https://www.esv.org/Job+26;Psalm+96:11-13;Proverbs+23:10-12;Romans+15:22-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-18-38dc48ce1aca41f08e43547aea7bd384@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Bible Reading — Aug 18
+DESCRIPTION:OT: Jb 27-28\nPsalm: 97:1-6\nProverbs: 23:13-14\nNT: Ro 16\nESV: https://www.esv.org/Job+27-28\;Psalm+97:1-6\;Proverbs+23:13-14\;Romans+16
+URL:https://www.esv.org/Job+27-28;Psalm+97:1-6;Proverbs+23:13-14;Romans+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-19-b15534d459ba4377b3ae19fa464ed8a0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Bible Reading — Aug 19
+DESCRIPTION:OT: Jb 29-30\nPsalm: 97:7-12\nProverbs: 23:15-16\nNT: 1 Co 1\nESV: https://www.esv.org/Job+29-30\;Psalm+97:7-12\;Proverbs+23:15-16\;1+Corinthians+1
+URL:https://www.esv.org/Job+29-30;Psalm+97:7-12;Proverbs+23:15-16;1+Corinthians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-20-fb7738defa19430a861553937094aa07@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Bible Reading — Aug 20
+DESCRIPTION:OT: Jb 31-32\nPsalm: 98:1-3\nProverbs: 23:17-18\nNT: 1 Co 2\nESV: https://www.esv.org/Job+31-32\;Psalm+98:1-3\;Proverbs+23:17-18\;1+Corinthians+2
+URL:https://www.esv.org/Job+31-32;Psalm+98:1-3;Proverbs+23:17-18;1+Corinthians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-0ade588199c448f880f6c82fd11575bd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Bible Reading — Aug 21
+DESCRIPTION:OT: Jb 33-34\nPsalm: 98:4-9\nProverbs: 23:19-21\nNT: 1 Co 3\nESV: https://www.esv.org/Job+33-34\;Psalm+98:4-9\;Proverbs+23:19-21\;1+Corinthians+3
+URL:https://www.esv.org/Job+33-34;Psalm+98:4-9;Proverbs+23:19-21;1+Corinthians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-555d53a1515640ef9749b4e58aaf1697@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Bible Reading — Aug 22
+DESCRIPTION:OT: Jb 35-36\nPsalm: 99\nProverbs: 23:22-25\nNT: 1 Co 4\nESV: https://www.esv.org/Job+35-36\;Psalm+99\;Proverbs+23:22-25\;1+Corinthians+4
+URL:https://www.esv.org/Job+35-36;Psalm+99;Proverbs+23:22-25;1+Corinthians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-23-adc5c130a0044087a1c030a6b0b21b20@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Bible Reading — Aug 23
+DESCRIPTION:OT: Jb 37-38\nPsalm: 100\nProverbs: 23:26-28\nNT: 1 Co 5\nESV: https://www.esv.org/Job+37-38\;Psalm+100\;Proverbs+23:26-28\;1+Corinthians+5
+URL:https://www.esv.org/Job+37-38;Psalm+100;Proverbs+23:26-28;1+Corinthians+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-24-7983cb24fae5431291321d05f2d4e55b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Bible Reading — Aug 24
+DESCRIPTION:OT: Jb 39-40\nPsalm: 101:1-4\nProverbs: 23:29-30\nNT: 1 Co 6\nESV: https://www.esv.org/Job+39-40\;Psalm+101:1-4\;Proverbs+23:29-30\;1+Corinthians+6
+URL:https://www.esv.org/Job+39-40;Psalm+101:1-4;Proverbs+23:29-30;1+Corinthians+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-25-6013b8ac86284133bdd97dbfdda8cad9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Bible Reading — Aug 25
+DESCRIPTION:OT: Jb 41-42\nPsalm: 101:5-8\nProverbs: 23:31-35\nNT: 1 Co 7:1-16\nESV: https://www.esv.org/Job+41-42\;Psalm+101:5-8\;Proverbs+23:31-35\;1+Corinthians+7:1-16
+URL:https://www.esv.org/Job+41-42;Psalm+101:5-8;Proverbs+23:31-35;1+Corinthians+7:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26-061cd3a455c04592be2f5399aaf24b31@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Bible Reading — Aug 26
+DESCRIPTION:OT: Ec 1-2\nPsalm: 102:1-11\nProverbs: 24:1-2\nNT: 1 Co 7:17-40\nESV: https://www.esv.org/Ecclesiastes+1-2\;Psalm+102:1-11\;Proverbs+24:1-2\;1+Corinthians+7:17-40
+URL:https://www.esv.org/Ecclesiastes+1-2;Psalm+102:1-11;Proverbs+24:1-2;1+Corinthians+7:17-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-27-85a486f4adf14f09a6f6d650e9c93edd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Bible Reading — Aug 27
+DESCRIPTION:OT: Ec 3\nPsalm: 102:12-17\nProverbs: 24:3-4\nNT: 1 Co 8\nESV: https://www.esv.org/Ecclesiastes+3\;Psalm+102:12-17\;Proverbs+24:3-4\;1+Corinthians+8
+URL:https://www.esv.org/Ecclesiastes+3;Psalm+102:12-17;Proverbs+24:3-4;1+Corinthians+8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-125efb3c7cbb45d3aa4eacfbfb002f9c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Bible Reading — Aug 28
+DESCRIPTION:OT: Ec 4-6\nPsalm: 102:18-28\nProverbs: 24:5-6\nNT: 1 Co 9\nESV: https://www.esv.org/Ecclesiastes+4-6\;Psalm+102:18-28\;Proverbs+24:5-6\;1+Corinthians+9
+URL:https://www.esv.org/Ecclesiastes+4-6;Psalm+102:18-28;Proverbs+24:5-6;1+Corinthians+9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-d2b47806324f4845ab6db096be5750c8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Bible Reading — Aug 29
+DESCRIPTION:OT: Ec 7\nPsalm: 103:1-5\nProverbs: 24:7-9\nNT: 1 Co 10:1-17\nESV: https://www.esv.org/Ecclesiastes+7\;Psalm+103:1-5\;Proverbs+24:7-9\;1+Corinthians+10:1-17
+URL:https://www.esv.org/Ecclesiastes+7;Psalm+103:1-5;Proverbs+24:7-9;1+Corinthians+10:1-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-30-555a385100ea4ece90a7c4bd74bbcde1@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Bible Reading — Aug 30
+DESCRIPTION:OT: Ec 8-10\nPsalm: 103:6-14\nProverbs: 24:10-12\nNT: 1 Co 10:18-33\nESV: https://www.esv.org/Ecclesiastes+8-10\;Psalm+103:6-14\;Proverbs+24:10-12\;1+Corinthians+10:18-33
+URL:https://www.esv.org/Ecclesiastes+8-10;Psalm+103:6-14;Proverbs+24:10-12;1+Corinthians+10:18-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-31-86d6be867e834342919c5bb8554619df@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Bible Reading — Aug 31
+DESCRIPTION:OT: Ec 11-12\nPsalm: 103:15-22\nProverbs: 24:13-14\nNT: 1 Co 11:1-16\nESV: https://www.esv.org/Ecclesiastes+11-12\;Psalm+103:15-22\;Proverbs+24:13-14\;1+Corinthians+11:1-16
+URL:https://www.esv.org/Ecclesiastes+11-12;Psalm+103:15-22;Proverbs+24:13-14;1+Corinthians+11:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-01-d88d942eb369400db6e2a1f48c7c1c69@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Bible Reading — Sep 1
+DESCRIPTION:OT: So 1-2\nPsalm: 104:1-9\nProverbs: 24:15-16\nNT: 1 Co 11:17-18\nESV: https://www.esv.org/Song+of+Solomon+1-2\;Psalm+104:1-9\;Proverbs+24:15-16\;1+Corinthians+11:17-18
+URL:https://www.esv.org/Song+of+Solomon+1-2;Psalm+104:1-9;Proverbs+24:15-16;1+Corinthians+11:17-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-81919d7a58a84a918b6ddadf6a4d92a0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Bible Reading — Sep 2
+DESCRIPTION:OT: So 3-4\nPsalm: 104:10-23\nProverbs: 24:17-18\nNT: 1 Co 12\nESV: https://www.esv.org/Song+of+Solomon+3-4\;Psalm+104:10-23\;Proverbs+24:17-18\;1+Corinthians+12
+URL:https://www.esv.org/Song+of+Solomon+3-4;Psalm+104:10-23;Proverbs+24:17-18;1+Corinthians+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-03-ad80453382ee47dd89d47e74c13da80e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Bible Reading — Sep 3
+DESCRIPTION:OT: So 5-6\nPsalm: 104:24-30\nProverbs: 24:19-20\nNT: 1 Co 13\nESV: https://www.esv.org/Song+of+Solomon+5-6\;Psalm+104:24-30\;Proverbs+24:19-20\;1+Corinthians+13
+URL:https://www.esv.org/Song+of+Solomon+5-6;Psalm+104:24-30;Proverbs+24:19-20;1+Corinthians+13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-4dd7bb54e2ba4f3dad4b006ae06d2bfb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Bible Reading — Sep 4
+DESCRIPTION:OT: So 7-8\nPsalm: 104:31-35\nProverbs: 24:21-22\nNT: 1 Co 14:1-20\nESV: https://www.esv.org/Song+of+Solomon+7-8\;Psalm+104:31-35\;Proverbs+24:21-22\;1+Corinthians+14:1-20
+URL:https://www.esv.org/Song+of+Solomon+7-8;Psalm+104:31-35;Proverbs+24:21-22;1+Corinthians+14:1-20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-5323548f4bde44e5aad8f720c68003b8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Bible Reading — Sep 5
+DESCRIPTION:OT: Is 1-2\nPsalm: 105:1-6\nProverbs: 24:23-25\nNT: 1 Co 14:21-40\nESV: https://www.esv.org/Isaiah+1-2\;Psalm+105:1-6\;Proverbs+24:23-25\;1+Corinthians+14:21-40
+URL:https://www.esv.org/Isaiah+1-2;Psalm+105:1-6;Proverbs+24:23-25;1+Corinthians+14:21-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-06-ff5892bdf9674131a0fdeb0ad5126734@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Bible Reading — Sep 6
+DESCRIPTION:OT: Is 3-4\nPsalm: 105:7-22\nProverbs: 24:26-27\nNT: 1 Co 15:1-28\nESV: https://www.esv.org/Isaiah+3-4\;Psalm+105:7-22\;Proverbs+24:26-27\;1+Corinthians+15:1-28
+URL:https://www.esv.org/Isaiah+3-4;Psalm+105:7-22;Proverbs+24:26-27;1+Corinthians+15:1-28
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-07-ef843b844ad94830a9f5bb317d2796ce@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Bible Reading — Sep 7
+DESCRIPTION:OT: Is 5-6\nPsalm: 105:23-36\nProverbs: 24:28-29\nNT: 1 Co 15:29-58\nESV: https://www.esv.org/Isaiah+5-6\;Psalm+105:23-36\;Proverbs+24:28-29\;1+Corinthians+15:29-58
+URL:https://www.esv.org/Isaiah+5-6;Psalm+105:23-36;Proverbs+24:28-29;1+Corinthians+15:29-58
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-74d14dfcd09541679bf4119537732072@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Bible Reading — Sep 8
+DESCRIPTION:OT: Is 7-8\nPsalm: 105:37-45\nProverbs: 24:30-34\nNT: 1 Co 16\nESV: https://www.esv.org/Isaiah+7-8\;Psalm+105:37-45\;Proverbs+24:30-34\;1+Corinthians+16
+URL:https://www.esv.org/Isaiah+7-8;Psalm+105:37-45;Proverbs+24:30-34;1+Corinthians+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-62286c45baa246559ebc0aa834e03f2e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Bible Reading — Sep 9
+DESCRIPTION:OT: Is 9-10\nPsalm: 106:1-5\nProverbs: 25:1-2\nNT: 2 Co 1\nESV: https://www.esv.org/Isaiah+9-10\;Psalm+106:1-5\;Proverbs+25:1-2\;2+Corinthians+1
+URL:https://www.esv.org/Isaiah+9-10;Psalm+106:1-5;Proverbs+25:1-2;2+Corinthians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-c7529abdb9fe4ebf8488260662a69ae3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Bible Reading — Sep 10
+DESCRIPTION:OT: Is 11-12\nPsalm: 106:6-18\nProverbs: 25:3-5\nNT: 2 Co 2\nESV: https://www.esv.org/Isaiah+11-12\;Psalm+106:6-18\;Proverbs+25:3-5\;2+Corinthians+2
+URL:https://www.esv.org/Isaiah+11-12;Psalm+106:6-18;Proverbs+25:3-5;2+Corinthians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-e3d7f9e5c9374393875cd8fc2cd2d8fd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Bible Reading — Sep 11
+DESCRIPTION:OT: Is 13-14\nPsalm: 106:19-23\nProverbs: 25:6-7\nNT: 2 Co 3\nESV: https://www.esv.org/Isaiah+13-14\;Psalm+106:19-23\;Proverbs+25:6-7\;2+Corinthians+3
+URL:https://www.esv.org/Isaiah+13-14;Psalm+106:19-23;Proverbs+25:6-7;2+Corinthians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-26f6014d8fc54796890e3f7bd7c108b3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Bible Reading — Sep 12
+DESCRIPTION:OT: Is 15-16\nPsalm: 106:24-31\nProverbs: 25:8-10\nNT: 2 Co 4\nESV: https://www.esv.org/Isaiah+15-16\;Psalm+106:24-31\;Proverbs+25:8-10\;2+Corinthians+4
+URL:https://www.esv.org/Isaiah+15-16;Psalm+106:24-31;Proverbs+25:8-10;2+Corinthians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-6dd978e1c5ae40caad2f7b52beeff8b6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Bible Reading — Sep 13
+DESCRIPTION:OT: Is 17-18\nPsalm: 106:32-39\nProverbs: 25:11-12\nNT: 2 Co 5\nESV: https://www.esv.org/Isaiah+17-18\;Psalm+106:32-39\;Proverbs+25:11-12\;2+Corinthians+5
+URL:https://www.esv.org/Isaiah+17-18;Psalm+106:32-39;Proverbs+25:11-12;2+Corinthians+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-8f9d7dfa173b46aa82bb737d37aaf284@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Bible Reading — Sep 14
+DESCRIPTION:OT: Is 19-20\nPsalm: 106:40-48\nProverbs: 25:13\nNT: 2 Co 6\nESV: https://www.esv.org/Isaiah+19-20\;Psalm+106:40-48\;Proverbs+25:13\;2+Corinthians+6
+URL:https://www.esv.org/Isaiah+19-20;Psalm+106:40-48;Proverbs+25:13;2+Corinthians+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-4fe21bbdfb4c41ccb0decee1896781f6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Bible Reading — Sep 15
+DESCRIPTION:OT: Is 21-22\nPsalm: 107:1-9\nProverbs: 25:14-16\nNT: 2 Co 7\nESV: https://www.esv.org/Isaiah+21-22\;Psalm+107:1-9\;Proverbs+25:14-16\;2+Corinthians+7
+URL:https://www.esv.org/Isaiah+21-22;Psalm+107:1-9;Proverbs+25:14-16;2+Corinthians+7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-f79f80d8f9ad4714949c13c702eb9f9d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Bible Reading — Sep 16
+DESCRIPTION:OT: Is 23-24\nPsalm: 107:10-22\nProverbs: 25:17\nNT: 2 Co 8\nESV: https://www.esv.org/Isaiah+23-24\;Psalm+107:10-22\;Proverbs+25:17\;2+Corinthians+8
+URL:https://www.esv.org/Isaiah+23-24;Psalm+107:10-22;Proverbs+25:17;2+Corinthians+8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-be8ba55521eb4e18ba217161047283b1@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Bible Reading — Sep 17
+DESCRIPTION:OT: Is 25-26\nPsalm: 107:23-32\nProverbs: 25:18-19\nNT: 2 Co 9\nESV: https://www.esv.org/Isaiah+25-26\;Psalm+107:23-32\;Proverbs+25:18-19\;2+Corinthians+9
+URL:https://www.esv.org/Isaiah+25-26;Psalm+107:23-32;Proverbs+25:18-19;2+Corinthians+9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-78faa089ccb94faba2c69baa744c7de9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Bible Reading — Sep 18
+DESCRIPTION:OT: Is 27-28\nPsalm: 107:33-43\nProverbs: 25:20\nNT: 2 Co 10\nESV: https://www.esv.org/Isaiah+27-28\;Psalm+107:33-43\;Proverbs+25:20\;2+Corinthians+10
+URL:https://www.esv.org/Isaiah+27-28;Psalm+107:33-43;Proverbs+25:20;2+Corinthians+10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-3f8474b226104f18bfcf64549269f18e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Bible Reading — Sep 19
+DESCRIPTION:OT: Is 29\nPsalm: 108:1-6\nProverbs: 25:21-22\nNT: 2 Co 11:1-15\nESV: https://www.esv.org/Isaiah+29\;Psalm+108:1-6\;Proverbs+25:21-22\;2+Corinthians+11:1-15
+URL:https://www.esv.org/Isaiah+29;Psalm+108:1-6;Proverbs+25:21-22;2+Corinthians+11:1-15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-20-70491597636d4d97938673325336319e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Bible Reading — Sep 20
+DESCRIPTION:OT: Is 30-32\nPsalm: 108:7-13\nProverbs: 25:23-24\nNT: 2 Co 11:16-33\nESV: https://www.esv.org/Isaiah+30-32\;Psalm+108:7-13\;Proverbs+25:23-24\;2+Corinthians+11:16-33
+URL:https://www.esv.org/Isaiah+30-32;Psalm+108:7-13;Proverbs+25:23-24;2+Corinthians+11:16-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-587b180c3cac4ada984b7dbd7319c3fb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Bible Reading — Sep 21
+DESCRIPTION:OT: Is 33-34\nPsalm: 109:1-5\nProverbs: 25:25-26\nNT: 2 Co 12\nESV: https://www.esv.org/Isaiah+33-34\;Psalm+109:1-5\;Proverbs+25:25-26\;2+Corinthians+12
+URL:https://www.esv.org/Isaiah+33-34;Psalm+109:1-5;Proverbs+25:25-26;2+Corinthians+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-ac592cb4eb6a4903aefa9299126035d7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Bible Reading — Sep 22
+DESCRIPTION:OT: Is 35-36\nPsalm: 109:6-13\nProverbs: 25:27-28\nNT: 2 Co 13\nESV: https://www.esv.org/Isaiah+35-36\;Psalm+109:6-13\;Proverbs+25:27-28\;2+Corinthians+13
+URL:https://www.esv.org/Isaiah+35-36;Psalm+109:6-13;Proverbs+25:27-28;2+Corinthians+13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-011ec616d0634adba830a9503ff3f2b6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Bible Reading — Sep 23
+DESCRIPTION:OT: Is 37-38\nPsalm: 109:14-20\nProverbs: 26:1\nNT: Ga 1\nESV: https://www.esv.org/Isaiah+37-38\;Psalm+109:14-20\;Proverbs+26:1\;Galatians+1
+URL:https://www.esv.org/Isaiah+37-38;Psalm+109:14-20;Proverbs+26:1;Galatians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-22195614f8cf415db97e88d012357832@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Bible Reading — Sep 24
+DESCRIPTION:OT: Is 39-40\nPsalm: 109:21-25\nProverbs: 26:2\nNT: Ga 2\nESV: https://www.esv.org/Isaiah+39-40\;Psalm+109:21-25\;Proverbs+26:2\;Galatians+2
+URL:https://www.esv.org/Isaiah+39-40;Psalm+109:21-25;Proverbs+26:2;Galatians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-6e1b6d84e088432f8c91977a444925d8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Bible Reading — Sep 25
+DESCRIPTION:OT: Is 41-42\nPsalm: 109:26-31\nProverbs: 26:3-4\nNT: Ga 3\nESV: https://www.esv.org/Isaiah+41-42\;Psalm+109:26-31\;Proverbs+26:3-4\;Galatians+3
+URL:https://www.esv.org/Isaiah+41-42;Psalm+109:26-31;Proverbs+26:3-4;Galatians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-733dc5bdbb0144139d9d47ea1d5a9b9d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Bible Reading — Sep 26
+DESCRIPTION:OT: Is 43-44\nPsalm: 110\nProverbs: 26:5-9\nNT: Ga 4\nESV: https://www.esv.org/Isaiah+43-44\;Psalm+110\;Proverbs+26:5-9\;Galatians+4
+URL:https://www.esv.org/Isaiah+43-44;Psalm+110;Proverbs+26:5-9;Galatians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-85fad7fa9dc44ed2938d10e95946f7e8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Bible Reading — Sep 27
+DESCRIPTION:OT: Is 45-46\nPsalm: 111:1-6\nProverbs: 26:10\nNT: Ga 5\nESV: https://www.esv.org/Isaiah+45-46\;Psalm+111:1-6\;Proverbs+26:10\;Galatians+5
+URL:https://www.esv.org/Isaiah+45-46;Psalm+111:1-6;Proverbs+26:10;Galatians+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-66f815f030b94d9fa51fd4dc3d37f529@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Bible Reading — Sep 28
+DESCRIPTION:OT: Is 47-48\nPsalm: 111:7-10\nProverbs: 26:11-12\nNT: Ga 6\nESV: https://www.esv.org/Isaiah+47-48\;Psalm+111:7-10\;Proverbs+26:11-12\;Galatians+6
+URL:https://www.esv.org/Isaiah+47-48;Psalm+111:7-10;Proverbs+26:11-12;Galatians+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-c8b00e1fc16544fd89080149aebceebf@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Bible Reading — Sep 29
+DESCRIPTION:OT: Is 49-50\nPsalm: 112:1-4\nProverbs: 26:13-15\nNT: Ep 1\nESV: https://www.esv.org/Isaiah+49-50\;Psalm+112:1-4\;Proverbs+26:13-15\;Ephesians+1
+URL:https://www.esv.org/Isaiah+49-50;Psalm+112:1-4;Proverbs+26:13-15;Ephesians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-22bbed7454ba4515a4b71494ce2b0ef1@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Bible Reading — Sep 30
+DESCRIPTION:OT: Is 51-52\nPsalm: 112:5-10\nProverbs: 26:16\nNT: Ep 2\nESV: https://www.esv.org/Isaiah+51-52\;Psalm+112:5-10\;Proverbs+26:16\;Ephesians+2
+URL:https://www.esv.org/Isaiah+51-52;Psalm+112:5-10;Proverbs+26:16;Ephesians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-a802cd9187cb4bea835ecb285e21c5f5@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Bible Reading — Oct 1
+DESCRIPTION:OT: Is 53-54\nPsalm: 113:1-4\nProverbs: 26:17-19\nNT: Ep 3\nESV: https://www.esv.org/Isaiah+53-54\;Psalm+113:1-4\;Proverbs+26:17-19\;Ephesians+3
+URL:https://www.esv.org/Isaiah+53-54;Psalm+113:1-4;Proverbs+26:17-19;Ephesians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-745bed3d5f4a417ab5314203ba4fd395@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Bible Reading — Oct 2
+DESCRIPTION:OT: Is 55-56\nPsalm: 113:5-9\nProverbs: 26:20-21\nNT: Ep 4\nESV: https://www.esv.org/Isaiah+55-56\;Psalm+113:5-9\;Proverbs+26:20-21\;Ephesians+4
+URL:https://www.esv.org/Isaiah+55-56;Psalm+113:5-9;Proverbs+26:20-21;Ephesians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-0dff934e35854f0a9c65f1f6a3c502fb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Bible Reading — Oct 3
+DESCRIPTION:OT: Is 57-58\nPsalm: 114\nProverbs: 26:22\nNT: Ep 5:1-16\nESV: https://www.esv.org/Isaiah+57-58\;Psalm+114\;Proverbs+26:22\;Ephesians+5:1-16
+URL:https://www.esv.org/Isaiah+57-58;Psalm+114;Proverbs+26:22;Ephesians+5:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-04-3ac1115246f54326b67412713019b9d9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Bible Reading — Oct 4
+DESCRIPTION:OT: Is 59-60\nPsalm: 115:1-8\nProverbs: 26:23\nNT: Ep 5:17-33\nESV: https://www.esv.org/Isaiah+59-60\;Psalm+115:1-8\;Proverbs+26:23\;Ephesians+5:17-33
+URL:https://www.esv.org/Isaiah+59-60;Psalm+115:1-8;Proverbs+26:23;Ephesians+5:17-33
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-fc01a15dfcb74b218709b5c136f6f799@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Bible Reading — Oct 5
+DESCRIPTION:OT: Is 61-62\nPsalm: 115:9-13\nProverbs: 26:24-26\nNT: Ep 6\nESV: https://www.esv.org/Isaiah+61-62\;Psalm+115:9-13\;Proverbs+26:24-26\;Ephesians+6
+URL:https://www.esv.org/Isaiah+61-62;Psalm+115:9-13;Proverbs+26:24-26;Ephesians+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-827fc96ce8f04956b5a240ed148a2c5b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Bible Reading — Oct 6
+DESCRIPTION:OT: Is 63-64\nPsalm: 115:14-18\nProverbs: 26:27\nNT: Ph 1\nESV: https://www.esv.org/Isaiah+63-64\;Psalm+115:14-18\;Proverbs+26:27\;Philippians+1
+URL:https://www.esv.org/Isaiah+63-64;Psalm+115:14-18;Proverbs+26:27;Philippians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-8f2e873be1074f08902874dd80b3e0f2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Bible Reading — Oct 7
+DESCRIPTION:OT: Is 65-66\nPsalm: 116:1-4\nProverbs: 26:28\nNT: Ph 2\nESV: https://www.esv.org/Isaiah+65-66\;Psalm+116:1-4\;Proverbs+26:28\;Philippians+2
+URL:https://www.esv.org/Isaiah+65-66;Psalm+116:1-4;Proverbs+26:28;Philippians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-7e0835dbd9cb439092c078e51acc4d99@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Bible Reading — Oct 8
+DESCRIPTION:OT: Je 1-2\nPsalm: 116:5-14\nProverbs: 27:1\nNT: Ph 3\nESV: https://www.esv.org/Jeremiah+1-2\;Psalm+116:5-14\;Proverbs+27:1\;Philippians+3
+URL:https://www.esv.org/Jeremiah+1-2;Psalm+116:5-14;Proverbs+27:1;Philippians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-75c03bba657347c19a8f1b517a88ed65@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Bible Reading — Oct 9
+DESCRIPTION:OT: Je 3-4\nPsalm: 116:15-19\nProverbs: 27:2\nNT: Ph 4\nESV: https://www.esv.org/Jeremiah+3-4\;Psalm+116:15-19\;Proverbs+27:2\;Philippians+4
+URL:https://www.esv.org/Jeremiah+3-4;Psalm+116:15-19;Proverbs+27:2;Philippians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-6d8a5a3f66e242b7bd9024f984e5a72b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Bible Reading — Oct 10
+DESCRIPTION:OT: Je 5-6\nPsalm: 117\nProverbs: 27:3-4\nNT: Col 1\nESV: https://www.esv.org/Jeremiah+5-6\;Psalm+117\;Proverbs+27:3-4\;Colossians+1
+URL:https://www.esv.org/Jeremiah+5-6;Psalm+117;Proverbs+27:3-4;Colossians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-11-3da7026384bc4a079dda066e6c7e608a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Bible Reading — Oct 11
+DESCRIPTION:OT: Je 7-8\nPsalm: 118:1-4\nProverbs: 27:5-6\nNT: Col 2\nESV: https://www.esv.org/Jeremiah+7-8\;Psalm+118:1-4\;Proverbs+27:5-6\;Colossians+2
+URL:https://www.esv.org/Jeremiah+7-8;Psalm+118:1-4;Proverbs+27:5-6;Colossians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-52ae279911a444aabb9eadf0eeb34085@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bible Reading — Oct 12
+DESCRIPTION:OT: Je 9-10\nPsalm: 118:5-9\nProverbs: 27:7\nNT: Col 3\nESV: https://www.esv.org/Jeremiah+9-10\;Psalm+118:5-9\;Proverbs+27:7\;Colossians+3
+URL:https://www.esv.org/Jeremiah+9-10;Psalm+118:5-9;Proverbs+27:7;Colossians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-09c1bc4382c04e09a76122c597d5303e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Bible Reading — Oct 13
+DESCRIPTION:OT: Je 11-12\nPsalm: 118:10-14\nProverbs: 27:8\nNT: Col 4\nESV: https://www.esv.org/Jeremiah+11-12\;Psalm+118:10-14\;Proverbs+27:8\;Colossians+4
+URL:https://www.esv.org/Jeremiah+11-12;Psalm+118:10-14;Proverbs+27:8;Colossians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-7991f25fc9eb494b917e9ed2807ca72e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Bible Reading — Oct 14
+DESCRIPTION:OT: Je 13-14\nPsalm: 118:15-20\nProverbs: 27:9\nNT: 1 Th 1\nESV: https://www.esv.org/Jeremiah+13-14\;Psalm+118:15-20\;Proverbs+27:9\;1+Thessalonians+1
+URL:https://www.esv.org/Jeremiah+13-14;Psalm+118:15-20;Proverbs+27:9;1+Thessalonians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-046c6fd4b6734a6b82b7cae97ee1b0e8@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Bible Reading — Oct 15
+DESCRIPTION:OT: Je 15-16\nPsalm: 118:21-24\nProverbs: 27:10\nNT: 1 Th 2\nESV: https://www.esv.org/Jeremiah+15-16\;Psalm+118:21-24\;Proverbs+27:10\;1+Thessalonians+2
+URL:https://www.esv.org/Jeremiah+15-16;Psalm+118:21-24;Proverbs+27:10;1+Thessalonians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-efd18f34ad78476aae7dce8720291a0d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Bible Reading — Oct 16
+DESCRIPTION:OT: Je 17-18\nPsalm: 118:25-29\nProverbs: 27:11-12\nNT: 1 Th 3\nESV: https://www.esv.org/Jeremiah+17-18\;Psalm+118:25-29\;Proverbs+27:11-12\;1+Thessalonians+3
+URL:https://www.esv.org/Jeremiah+17-18;Psalm+118:25-29;Proverbs+27:11-12;1+Thessalonians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-8f2e9b89991243f8acba0a109f6bf963@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Bible Reading — Oct 17
+DESCRIPTION:OT: Je 19-20\nPsalm: 119:1-8\nProverbs: 27:13\nNT: 1 Th 4\nESV: https://www.esv.org/Jeremiah+19-20\;Psalm+119:1-8\;Proverbs+27:13\;1+Thessalonians+4
+URL:https://www.esv.org/Jeremiah+19-20;Psalm+119:1-8;Proverbs+27:13;1+Thessalonians+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-18-63d4998a80a040be8d1e9b83f0034772@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Bible Reading — Oct 18
+DESCRIPTION:OT: Je 21-22\nPsalm: 119:9-16\nProverbs: 27:14\nNT: 1 Th 5\nESV: https://www.esv.org/Jeremiah+21-22\;Psalm+119:9-16\;Proverbs+27:14\;1+Thessalonians+5
+URL:https://www.esv.org/Jeremiah+21-22;Psalm+119:9-16;Proverbs+27:14;1+Thessalonians+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-a007cfa39576446da453e4a89dc8250e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Bible Reading — Oct 19
+DESCRIPTION:OT: Je 23-24\nPsalm: 119:17-24\nProverbs: 27:15-16\nNT: 2 Th 1\nESV: https://www.esv.org/Jeremiah+23-24\;Psalm+119:17-24\;Proverbs+27:15-16\;2+Thessalonians+1
+URL:https://www.esv.org/Jeremiah+23-24;Psalm+119:17-24;Proverbs+27:15-16;2+Thessalonians+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-59d6c9c2128a4c879ae0d146884d2be7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Bible Reading — Oct 20
+DESCRIPTION:OT: Je 25-26\nPsalm: 119:25-32\nProverbs: 27:17\nNT: 2 Th 2\nESV: https://www.esv.org/Jeremiah+25-26\;Psalm+119:25-32\;Proverbs+27:17\;2+Thessalonians+2
+URL:https://www.esv.org/Jeremiah+25-26;Psalm+119:25-32;Proverbs+27:17;2+Thessalonians+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-ac8190d8c90a41d18238e195f6a250e9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Bible Reading — Oct 21
+DESCRIPTION:OT: Je 27-28\nPsalm: 119:33-40\nProverbs: 27:18\nNT: 2 Th 3\nESV: https://www.esv.org/Jeremiah+27-28\;Psalm+119:33-40\;Proverbs+27:18\;2+Thessalonians+3
+URL:https://www.esv.org/Jeremiah+27-28;Psalm+119:33-40;Proverbs+27:18;2+Thessalonians+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-0a63f508e2d14df59a6d979e7de29c49@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Bible Reading — Oct 22
+DESCRIPTION:OT: Je 29-30\nPsalm: 119:41-48\nProverbs: 27:19\nNT: 1 Tim 1\nESV: https://www.esv.org/Jeremiah+29-30\;Psalm+119:41-48\;Proverbs+27:19\;1+Timothy+1
+URL:https://www.esv.org/Jeremiah+29-30;Psalm+119:41-48;Proverbs+27:19;1+Timothy+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-6bda69dee72c409e8bf7d3ef8d127b7e@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Bible Reading — Oct 23
+DESCRIPTION:OT: Je 31-32\nPsalm: 119:49-56\nProverbs: 27:20\nNT: 1 Tim 2\nESV: https://www.esv.org/Jeremiah+31-32\;Psalm+119:49-56\;Proverbs+27:20\;1+Timothy+2
+URL:https://www.esv.org/Jeremiah+31-32;Psalm+119:49-56;Proverbs+27:20;1+Timothy+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-7399d75807a644ec919a69866af914df@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Bible Reading — Oct 24
+DESCRIPTION:OT: Je 33-34\nPsalm: 119:57-64\nProverbs: 27:21\nNT: 1 Tim 3\nESV: https://www.esv.org/Jeremiah+33-34\;Psalm+119:57-64\;Proverbs+27:21\;1+Timothy+3
+URL:https://www.esv.org/Jeremiah+33-34;Psalm+119:57-64;Proverbs+27:21;1+Timothy+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-25-a5fa069461644ae0bf23f8032ee2ab83@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Bible Reading — Oct 25
+DESCRIPTION:OT: Je 35-36\nPsalm: 119:65-72\nProverbs: 27:22\nNT: 1 Tim 4\nESV: https://www.esv.org/Jeremiah+35-36\;Psalm+119:65-72\;Proverbs+27:22\;1+Timothy+4
+URL:https://www.esv.org/Jeremiah+35-36;Psalm+119:65-72;Proverbs+27:22;1+Timothy+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-c070b039a82a45c898cd13642a8341b0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Bible Reading — Oct 26
+DESCRIPTION:OT: Je 37-38\nPsalm: 119:73-80\nProverbs: 27:23-27\nNT: 1 Tim 5\nESV: https://www.esv.org/Jeremiah+37-38\;Psalm+119:73-80\;Proverbs+27:23-27\;1+Timothy+5
+URL:https://www.esv.org/Jeremiah+37-38;Psalm+119:73-80;Proverbs+27:23-27;1+Timothy+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-e9aff544420146b1b1da76193a68f307@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Bible Reading — Oct 27
+DESCRIPTION:OT: Je 39-40\nPsalm: 119:81-88\nProverbs: 28:1\nNT: 1 Tim 6\nESV: https://www.esv.org/Jeremiah+39-40\;Psalm+119:81-88\;Proverbs+28:1\;1+Timothy+6
+URL:https://www.esv.org/Jeremiah+39-40;Psalm+119:81-88;Proverbs+28:1;1+Timothy+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-9716487247fe4232bdd933f5fc5608f2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Bible Reading — Oct 28
+DESCRIPTION:OT: Je 41-42\nPsalm: 119:89-96\nProverbs: 28:2\nNT: 2 Tim 1\nESV: https://www.esv.org/Jeremiah+41-42\;Psalm+119:89-96\;Proverbs+28:2\;2+Timothy+1
+URL:https://www.esv.org/Jeremiah+41-42;Psalm+119:89-96;Proverbs+28:2;2+Timothy+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-6f4ed4d6b5824488b71fb9950ad1317f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Bible Reading — Oct 29
+DESCRIPTION:OT: Je 43-44\nPsalm: 119:97-104\nProverbs: 28:3\nNT: 2 Tim 2\nESV: https://www.esv.org/Jeremiah+43-44\;Psalm+119:97-104\;Proverbs+28:3\;2+Timothy+2
+URL:https://www.esv.org/Jeremiah+43-44;Psalm+119:97-104;Proverbs+28:3;2+Timothy+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-15cef5f489da49b8866a770b7f4a3b85@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Bible Reading — Oct 30
+DESCRIPTION:OT: Je 45-46\nPsalm: 119:105-112\nProverbs: 28:4\nNT: 2 Tim 3\nESV: https://www.esv.org/Jeremiah+45-46\;Psalm+119:105-112\;Proverbs+28:4\;2+Timothy+3
+URL:https://www.esv.org/Jeremiah+45-46;Psalm+119:105-112;Proverbs+28:4;2+Timothy+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-4c2cbf43d4484fbea1a277bc10fa519b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Bible Reading — Oct 31
+DESCRIPTION:OT: Je 47-48\nPsalm: 119:113-120\nProverbs: 28:5\nNT: 2 Tim 4\nESV: https://www.esv.org/Jeremiah+47-48\;Psalm+119:113-120\;Proverbs+28:5\;2+Timothy+4
+URL:https://www.esv.org/Jeremiah+47-48;Psalm+119:113-120;Proverbs+28:5;2+Timothy+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-0ccbd02f7b1a4774bbdb459a5cf26544@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Bible Reading — Nov 1
+DESCRIPTION:OT: Je 49-50\nPsalm: 119:121-128\nProverbs: 28:6\nNT: Ti 1\nESV: https://www.esv.org/Jeremiah+49-50\;Psalm+119:121-128\;Proverbs+28:6\;Titus+1
+URL:https://www.esv.org/Jeremiah+49-50;Psalm+119:121-128;Proverbs+28:6;Titus+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-62cce307d0524439bfa1dc3c0750a32c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Bible Reading — Nov 2
+DESCRIPTION:OT: Je 51-52\nPsalm: 119:129-136\nProverbs: 28:7-8\nNT: Ti 2\nESV: https://www.esv.org/Jeremiah+51-52\;Psalm+119:129-136\;Proverbs+28:7-8\;Titus+2
+URL:https://www.esv.org/Jeremiah+51-52;Psalm+119:129-136;Proverbs+28:7-8;Titus+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-080d8e8b683a4e6c9a58682c1941acfe@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Bible Reading — Nov 3
+DESCRIPTION:OT: La 1-2\nPsalm: 119:137-144\nProverbs: 28:9-10\nNT: Ti 3\nESV: https://www.esv.org/Lamentations+1-2\;Psalm+119:137-144\;Proverbs+28:9-10\;Titus+3
+URL:https://www.esv.org/Lamentations+1-2;Psalm+119:137-144;Proverbs+28:9-10;Titus+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-09d70ec4d39d4b6abd0b1a2c3160fe87@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Bible Reading — Nov 4
+DESCRIPTION:OT: La 3-5\nPsalm: 119:145-152\nProverbs: 28:11\nNT: Phm 1-25\nESV: https://www.esv.org/Lamentations+3-5\;Psalm+119:145-152\;Proverbs+28:11\;Philemon+1-25
+URL:https://www.esv.org/Lamentations+3-5;Psalm+119:145-152;Proverbs+28:11;Philemon+1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-91b83a35eb6844049ee674dd59d17c1a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Bible Reading — Nov 5
+DESCRIPTION:OT: Ezk 1-2\nPsalm: 119:153-160\nProverbs: 28:12\nNT: He 1\nESV: https://www.esv.org/Ezekiel+1-2\;Psalm+119:153-160\;Proverbs+28:12\;Hebrews+1
+URL:https://www.esv.org/Ezekiel+1-2;Psalm+119:153-160;Proverbs+28:12;Hebrews+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-0f28ec1fd41f4205930e38cd1c0c540a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Bible Reading — Nov 6
+DESCRIPTION:OT: Ezk 3-4\nPsalm: 119:161-168\nProverbs: 28:13\nNT: He 2\nESV: https://www.esv.org/Ezekiel+3-4\;Psalm+119:161-168\;Proverbs+28:13\;Hebrews+2
+URL:https://www.esv.org/Ezekiel+3-4;Psalm+119:161-168;Proverbs+28:13;Hebrews+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-98b847bce3dc4d67a1af9d7b07406921@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Bible Reading — Nov 7
+DESCRIPTION:OT: Ezk 5-6\nPsalm: 119:169-176\nProverbs: 28:14\nNT: He 3\nESV: https://www.esv.org/Ezekiel+5-6\;Psalm+119:169-176\;Proverbs+28:14\;Hebrews+3
+URL:https://www.esv.org/Ezekiel+5-6;Psalm+119:169-176;Proverbs+28:14;Hebrews+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-0fd58f7ca9f845ecb36ab36b089d3d30@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Bible Reading — Nov 8
+DESCRIPTION:OT: Ezk 7-8\nPsalm: 120\nProverbs: 28:15\nNT: He 4\nESV: https://www.esv.org/Ezekiel+7-8\;Psalm+120\;Proverbs+28:15\;Hebrews+4
+URL:https://www.esv.org/Ezekiel+7-8;Psalm+120;Proverbs+28:15;Hebrews+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-66b06041ba264aa7888ad6f8af5f68fc@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Bible Reading — Nov 9
+DESCRIPTION:OT: Ezk 9-10\nPsalm: 121\nProverbs: 28:16\nNT: He 5\nESV: https://www.esv.org/Ezekiel+9-10\;Psalm+121\;Proverbs+28:16\;Hebrews+5
+URL:https://www.esv.org/Ezekiel+9-10;Psalm+121;Proverbs+28:16;Hebrews+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-e6df1046c6cb4a60be9f2ce46f5b3f03@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Bible Reading — Nov 10
+DESCRIPTION:OT: Ezk 11-12\nPsalm: 122:1-5\nProverbs: 28:17-18\nNT: He 6\nESV: https://www.esv.org/Ezekiel+11-12\;Psalm+122:1-5\;Proverbs+28:17-18\;Hebrews+6
+URL:https://www.esv.org/Ezekiel+11-12;Psalm+122:1-5;Proverbs+28:17-18;Hebrews+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-81219dfc4f9848db8fdde1844bddb172@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Bible Reading — Nov 11
+DESCRIPTION:OT: Ezk 13-14\nPsalm: 122:6-9\nProverbs: 28:19\nNT: He 7\nESV: https://www.esv.org/Ezekiel+13-14\;Psalm+122:6-9\;Proverbs+28:19\;Hebrews+7
+URL:https://www.esv.org/Ezekiel+13-14;Psalm+122:6-9;Proverbs+28:19;Hebrews+7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-740e0cdd82c34b7ea0e3f1ccd84643ad@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Bible Reading — Nov 12
+DESCRIPTION:OT: Ezk 15-16\nPsalm: 123\nProverbs: 28:20\nNT: He 8\nESV: https://www.esv.org/Ezekiel+15-16\;Psalm+123\;Proverbs+28:20\;Hebrews+8
+URL:https://www.esv.org/Ezekiel+15-16;Psalm+123;Proverbs+28:20;Hebrews+8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-dc3c048639654428ac5e76bc63d8abaa@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Bible Reading — Nov 13
+DESCRIPTION:OT: Ezk 17-18\nPsalm: 124\nProverbs: 28:21\nNT: He 9\nESV: https://www.esv.org/Ezekiel+17-18\;Psalm+124\;Proverbs+28:21\;Hebrews+9
+URL:https://www.esv.org/Ezekiel+17-18;Psalm+124;Proverbs+28:21;Hebrews+9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-6d1c2f9a6c6b4c8a9980bb50a3665f42@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Bible Reading — Nov 14
+DESCRIPTION:OT: Ezk 19-20\nPsalm: 125\nProverbs: 28:22\nNT: He 10:1-18\nESV: https://www.esv.org/Ezekiel+19-20\;Psalm+125\;Proverbs+28:22\;Hebrews+10:1-18
+URL:https://www.esv.org/Ezekiel+19-20;Psalm+125;Proverbs+28:22;Hebrews+10:1-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-eddf1a9e482b4709b6564b18a8bcd4a6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Bible Reading — Nov 15
+DESCRIPTION:OT: Ezk 21-22\nPsalm: 126\nProverbs: 28:23\nNT: He 10:19-39\nESV: https://www.esv.org/Ezekiel+21-22\;Psalm+126\;Proverbs+28:23\;Hebrews+10:19-39
+URL:https://www.esv.org/Ezekiel+21-22;Psalm+126;Proverbs+28:23;Hebrews+10:19-39
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-1f4283fe6b0145c88a89e8196cfaec66@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Bible Reading — Nov 16
+DESCRIPTION:OT: Ezk 23-24\nPsalm: 127\nProverbs: 28:24\nNT: He 11:1-16\nESV: https://www.esv.org/Ezekiel+23-24\;Psalm+127\;Proverbs+28:24\;Hebrews+11:1-16
+URL:https://www.esv.org/Ezekiel+23-24;Psalm+127;Proverbs+28:24;Hebrews+11:1-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-407ddd354ca54df48bd22c11f2958ec6@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Bible Reading — Nov 17
+DESCRIPTION:OT: Ezk 25-26\nPsalm: 128\nProverbs: 28:25\nNT: He 11:17-40\nESV: https://www.esv.org/Ezekiel+25-26\;Psalm+128\;Proverbs+28:25\;Hebrews+11:17-40
+URL:https://www.esv.org/Ezekiel+25-26;Psalm+128;Proverbs+28:25;Hebrews+11:17-40
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-92e66278e38940e48d4f1c8d17c4634b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Bible Reading — Nov 18
+DESCRIPTION:OT: Ezk 27-28\nPsalm: 129:1-4\nProverbs: 28:26\nNT: He 12\nESV: https://www.esv.org/Ezekiel+27-28\;Psalm+129:1-4\;Proverbs+28:26\;Hebrews+12
+URL:https://www.esv.org/Ezekiel+27-28;Psalm+129:1-4;Proverbs+28:26;Hebrews+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-2761a18162d446adad7ffea3e981d40d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Bible Reading — Nov 19
+DESCRIPTION:OT: Ezk 29-30\nPsalm: 129:5-8\nProverbs: 28:27\nNT: He 13\nESV: https://www.esv.org/Ezekiel+29-30\;Psalm+129:5-8\;Proverbs+28:27\;Hebrews+13
+URL:https://www.esv.org/Ezekiel+29-30;Psalm+129:5-8;Proverbs+28:27;Hebrews+13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-29a157bad66e4ad5ac47be85a12930cd@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bible Reading — Nov 20
+DESCRIPTION:OT: Ezk 31-32\nPsalm: 130:1-4\nProverbs: 28:28\nNT: Ja 1\nESV: https://www.esv.org/Ezekiel+31-32\;Psalm+130:1-4\;Proverbs+28:28\;James+1
+URL:https://www.esv.org/Ezekiel+31-32;Psalm+130:1-4;Proverbs+28:28;James+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-aac41fe635c449c1b163f47be217d0b1@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Bible Reading — Nov 21
+DESCRIPTION:OT: Ezk 33-34\nPsalm: 130:5-8\nProverbs: 29:1\nNT: Ja 2\nESV: https://www.esv.org/Ezekiel+33-34\;Psalm+130:5-8\;Proverbs+29:1\;James+2
+URL:https://www.esv.org/Ezekiel+33-34;Psalm+130:5-8;Proverbs+29:1;James+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-01296e5edeb942b38e815ffd72983b85@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Bible Reading — Nov 22
+DESCRIPTION:OT: Ezk 35-36\nPsalm: 131\nProverbs: 29:2-3\nNT: Ja 3\nESV: https://www.esv.org/Ezekiel+35-36\;Psalm+131\;Proverbs+29:2-3\;James+3
+URL:https://www.esv.org/Ezekiel+35-36;Psalm+131;Proverbs+29:2-3;James+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-4f3577c72a8f4cbbb8eff00c81758fed@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Bible Reading — Nov 23
+DESCRIPTION:OT: Ezk 37-38\nPsalm: 132:1-9\nProverbs: 29:4\nNT: Ja 4\nESV: https://www.esv.org/Ezekiel+37-38\;Psalm+132:1-9\;Proverbs+29:4\;James+4
+URL:https://www.esv.org/Ezekiel+37-38;Psalm+132:1-9;Proverbs+29:4;James+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-60c73b50324d4044ab9bd562df542042@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Bible Reading — Nov 24
+DESCRIPTION:OT: Ezk 39-40\nPsalm: 132:10-18\nProverbs: 29:5\nNT: Ja 5\nESV: https://www.esv.org/Ezekiel+39-40\;Psalm+132:10-18\;Proverbs+29:5\;James+5
+URL:https://www.esv.org/Ezekiel+39-40;Psalm+132:10-18;Proverbs+29:5;James+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-59f951d682ee44d5906e48d903f8abce@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bible Reading — Nov 25
+DESCRIPTION:OT: Ezk 41-42\nPsalm: 133\nProverbs: 29:6\nNT: 1 Pe 1\nESV: https://www.esv.org/Ezekiel+41-42\;Psalm+133\;Proverbs+29:6\;1+Peter+1
+URL:https://www.esv.org/Ezekiel+41-42;Psalm+133;Proverbs+29:6;1+Peter+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-ab079d79ac8d47ec90fce580a68d12cf@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Bible Reading — Nov 26
+DESCRIPTION:OT: Ezk 43-44\nPsalm: 134\nProverbs: 29:7\nNT: 1 Pe 2\nESV: https://www.esv.org/Ezekiel+43-44\;Psalm+134\;Proverbs+29:7\;1+Peter+2
+URL:https://www.esv.org/Ezekiel+43-44;Psalm+134;Proverbs+29:7;1+Peter+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-ae99700b574c4da597a9e33f3f9e3c7a@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Bible Reading — Nov 27
+DESCRIPTION:OT: Ezk 45-46\nPsalm: 135:1-7\nProverbs: 29:8\nNT: 1 Pe 3\nESV: https://www.esv.org/Ezekiel+45-46\;Psalm+135:1-7\;Proverbs+29:8\;1+Peter+3
+URL:https://www.esv.org/Ezekiel+45-46;Psalm+135:1-7;Proverbs+29:8;1+Peter+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-4a31b86a3c5f40399d3a19166cd00a1f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Bible Reading — Nov 28
+DESCRIPTION:OT: Ezk 47-48\nPsalm: 135:8-14\nProverbs: 29:9\nNT: 1 Pe 4\nESV: https://www.esv.org/Ezekiel+47-48\;Psalm+135:8-14\;Proverbs+29:9\;1+Peter+4
+URL:https://www.esv.org/Ezekiel+47-48;Psalm+135:8-14;Proverbs+29:9;1+Peter+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-3149a327d20148f7aea6cb131720565d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Bible Reading — Nov 29
+DESCRIPTION:OT: Da 1-2\nPsalm: 135:15-21\nProverbs: 29:10\nNT: 1 Pe 5\nESV: https://www.esv.org/Daniel+1-2\;Psalm+135:15-21\;Proverbs+29:10\;1+Peter+5
+URL:https://www.esv.org/Daniel+1-2;Psalm+135:15-21;Proverbs+29:10;1+Peter+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-dfe97925839144b7815468a097cc8124@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Bible Reading — Nov 30
+DESCRIPTION:OT: Da 3-4\nPsalm: 136:1-9\nProverbs: 29:11\nNT: 2 Pe 1\nESV: https://www.esv.org/Daniel+3-4\;Psalm+136:1-9\;Proverbs+29:11\;2+Peter+1
+URL:https://www.esv.org/Daniel+3-4;Psalm+136:1-9;Proverbs+29:11;2+Peter+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-eca4cf693d944c1ab2ed4b529fad688c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Bible Reading — Dec 1
+DESCRIPTION:OT: Da 5-6\nPsalm: 136:10-26\nProverbs: 29:12-13\nNT: 2 Pe 2\nESV: https://www.esv.org/Daniel+5-6\;Psalm+136:10-26\;Proverbs+29:12-13\;2+Peter+2
+URL:https://www.esv.org/Daniel+5-6;Psalm+136:10-26;Proverbs+29:12-13;2+Peter+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-6b353fe64a494e0ab61134346c41dbc9@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Bible Reading — Dec 2
+DESCRIPTION:OT: Da 7-8\nPsalm: 137:1-6\nProverbs: 29:14\nNT: 2 Pe 3\nESV: https://www.esv.org/Daniel+7-8\;Psalm+137:1-6\;Proverbs+29:14\;2+Peter+3
+URL:https://www.esv.org/Daniel+7-8;Psalm+137:1-6;Proverbs+29:14;2+Peter+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-7e8f884637bd45f88a40caddcfd7f10b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Bible Reading — Dec 3
+DESCRIPTION:OT: Da 9-10\nPsalm: 137:7-9\nProverbs: 29:15\nNT: 1 Jn 1\nESV: https://www.esv.org/Daniel+9-10\;Psalm+137:7-9\;Proverbs+29:15\;1+John+1
+URL:https://www.esv.org/Daniel+9-10;Psalm+137:7-9;Proverbs+29:15;1+John+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-a47aae2b2da542989829edc320bbd1d4@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Bible Reading — Dec 4
+DESCRIPTION:OT: Da 11-12\nPsalm: 138:1-3\nProverbs: 29:16\nNT: 1 Jn 2\nESV: https://www.esv.org/Daniel+11-12\;Psalm+138:1-3\;Proverbs+29:16\;1+John+2
+URL:https://www.esv.org/Daniel+11-12;Psalm+138:1-3;Proverbs+29:16;1+John+2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-88cb5a94069b45eebc7ac803591ca819@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Bible Reading — Dec 5
+DESCRIPTION:OT: Ho 1-2\nPsalm: 138:4-6\nProverbs: 29:17\nNT: 1 Jn 3\nESV: https://www.esv.org/Hosea+1-2\;Psalm+138:4-6\;Proverbs+29:17\;1+John+3
+URL:https://www.esv.org/Hosea+1-2;Psalm+138:4-6;Proverbs+29:17;1+John+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-a5910a7dffa04645bdf3e1d7ab4f4bbc@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Bible Reading — Dec 6
+DESCRIPTION:OT: Ho 3-4\nPsalm: 138:7-8\nProverbs: 29:18\nNT: 1 Jn 4\nESV: https://www.esv.org/Hosea+3-4\;Psalm+138:7-8\;Proverbs+29:18\;1+John+4
+URL:https://www.esv.org/Hosea+3-4;Psalm+138:7-8;Proverbs+29:18;1+John+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-a3b408f5b32042be91122126cbeb6cb2@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Bible Reading — Dec 7
+DESCRIPTION:OT: Ho 5-6\nPsalm: 139:1-6\nProverbs: 29:19\nNT: 1 Jn 5\nESV: https://www.esv.org/Hosea+5-6\;Psalm+139:1-6\;Proverbs+29:19\;1+John+5
+URL:https://www.esv.org/Hosea+5-6;Psalm+139:1-6;Proverbs+29:19;1+John+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-96ae90aa95eb4e7492639be1bd694733@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Bible Reading — Dec 8
+DESCRIPTION:OT: Ho 7-8\nPsalm: 139:7-12\nProverbs: 29:20\nNT: 2 Jn 1-13\nESV: https://www.esv.org/Hosea+7-8\;Psalm+139:7-12\;Proverbs+29:20\;2+John+1-13
+URL:https://www.esv.org/Hosea+7-8;Psalm+139:7-12;Proverbs+29:20;2+John+1-13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-38933ac73c05453a86caf8f77295a033@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Bible Reading — Dec 9
+DESCRIPTION:OT: Ho 9-10\nPsalm: 139:13-16\nProverbs: 29:21\nNT: 3 Jn 1-14\nESV: https://www.esv.org/Hosea+9-10\;Psalm+139:13-16\;Proverbs+29:21\;3+John+1-14
+URL:https://www.esv.org/Hosea+9-10;Psalm+139:13-16;Proverbs+29:21;3+John+1-14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-5470dfc3b6c34c8db48822301dca2937@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Bible Reading — Dec 10
+DESCRIPTION:OT: Ho 11-12\nPsalm: 139:17-24\nProverbs: 29:22\nNT: Jd 1-25\nESV: https://www.esv.org/Hosea+11-12\;Psalm+139:17-24\;Proverbs+29:22\;Jude+1-25
+URL:https://www.esv.org/Hosea+11-12;Psalm+139:17-24;Proverbs+29:22;Jude+1-25
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-8be5e900d26f41bbae35852d9c9addcb@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Bible Reading — Dec 11
+DESCRIPTION:OT: Ho 13-14\nPsalm: 140:1-5\nProverbs: 29:23\nNT: Re 1\nESV: https://www.esv.org/Hosea+13-14\;Psalm+140:1-5\;Proverbs+29:23\;Revelation+1
+URL:https://www.esv.org/Hosea+13-14;Psalm+140:1-5;Proverbs+29:23;Revelation+1
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-178e201003be42e38258c74bc7f40862@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Bible Reading — Dec 12
+DESCRIPTION:OT: Jl 1-3\nPsalm: 140:6-13\nProverbs: 29:24\nNT: Re 21-22\nESV: https://www.esv.org/Joel+1-3\;Psalm+140:6-13\;Proverbs+29:24\;Revelation+21-22
+URL:https://www.esv.org/Joel+1-3;Psalm+140:6-13;Proverbs+29:24;Revelation+21-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-2f59fd1093624604be1c8fecdb775e64@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Bible Reading — Dec 13
+DESCRIPTION:OT: Am 1-3\nPsalm: 141:1-4\nProverbs: 29:25\nNT: Re 3\nESV: https://www.esv.org/Amos+1-3\;Psalm+141:1-4\;Proverbs+29:25\;Revelation+3
+URL:https://www.esv.org/Amos+1-3;Psalm+141:1-4;Proverbs+29:25;Revelation+3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-6b46ad7fdb364559a2e470fa1bef7e16@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Bible Reading — Dec 14
+DESCRIPTION:OT: Am 4-5\nPsalm: 141:5-10\nProverbs: 29:26\nNT: Re 4\nESV: https://www.esv.org/Amos+4-5\;Psalm+141:5-10\;Proverbs+29:26\;Revelation+4
+URL:https://www.esv.org/Amos+4-5;Psalm+141:5-10;Proverbs+29:26;Revelation+4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-2406d1cd6fea4d6580eb517657856e8f@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Bible Reading — Dec 15
+DESCRIPTION:OT: Am 6-7\nPsalm: 142\nProverbs: 29:27\nNT: Re 5\nESV: https://www.esv.org/Amos+6-7\;Psalm+142\;Proverbs+29:27\;Revelation+5
+URL:https://www.esv.org/Amos+6-7;Psalm+142;Proverbs+29:27;Revelation+5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-fb67fd4e0bd643229723be4bf5aeefc0@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Bible Reading — Dec 16
+DESCRIPTION:OT: Am 8-9\nPsalm: 143:1-6\nProverbs: 30:1-4\nNT: Re 6\nESV: https://www.esv.org/Amos+8-9\;Psalm+143:1-6\;Proverbs+30:1-4\;Revelation+6
+URL:https://www.esv.org/Amos+8-9;Psalm+143:1-6;Proverbs+30:1-4;Revelation+6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-017379c3617d4b868ced662e26b97928@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Bible Reading — Dec 17
+DESCRIPTION:OT: Ob 1-21\nPsalm: 143:7-12\nProverbs: 30:5\nNT: Re 7\nESV: https://www.esv.org/Obadiah+1-21\;Psalm+143:7-12\;Proverbs+30:5\;Revelation+7
+URL:https://www.esv.org/Obadiah+1-21;Psalm+143:7-12;Proverbs+30:5;Revelation+7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-522b1449e3104877baffcf844f01b80b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Bible Reading — Dec 18
+DESCRIPTION:OT: Jnh 1-4\nPsalm: 144:1-8\nProverbs: 30:6-9\nNT: Re 8\nESV: https://www.esv.org/Jonah+1-4\;Psalm+144:1-8\;Proverbs+30:6-9\;Revelation+8
+URL:https://www.esv.org/Jonah+1-4;Psalm+144:1-8;Proverbs+30:6-9;Revelation+8
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-88b88db1206e4212b0a85f4f1ab89905@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Bible Reading — Dec 19
+DESCRIPTION:OT: Mc 1-3\nPsalm: 144:9-15\nProverbs: 30:10\nNT: Re 9\nESV: https://www.esv.org/Micah+1-3\;Psalm+144:9-15\;Proverbs+30:10\;Revelation+9
+URL:https://www.esv.org/Micah+1-3;Psalm+144:9-15;Proverbs+30:10;Revelation+9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-6f3704426ccd41389163c20fa28bb25d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Bible Reading — Dec 20
+DESCRIPTION:OT: Mc 4-5\nPsalm: 145:1-9\nProverbs: 30:11-14\nNT: Re 10\nESV: https://www.esv.org/Micah+4-5\;Psalm+145:1-9\;Proverbs+30:11-14\;Revelation+10
+URL:https://www.esv.org/Micah+4-5;Psalm+145:1-9;Proverbs+30:11-14;Revelation+10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-9858a69a5e134ad58c3155a6eeeece46@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Bible Reading — Dec 21
+DESCRIPTION:OT: Mc 6-7\nPsalm: 145:10-16\nProverbs: 30:15\nNT: Re 11\nESV: https://www.esv.org/Micah+6-7\;Psalm+145:10-16\;Proverbs+30:15\;Revelation+11
+URL:https://www.esv.org/Micah+6-7;Psalm+145:10-16;Proverbs+30:15;Revelation+11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-3dd201779bf148008401f9de58000e6c@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Bible Reading — Dec 22
+DESCRIPTION:OT: Na 1-3\nPsalm: 145:17-21\nProverbs: 30:16\nNT: Re 12\nESV: https://www.esv.org/Nahum+1-3\;Psalm+145:17-21\;Proverbs+30:16\;Revelation+12
+URL:https://www.esv.org/Nahum+1-3;Psalm+145:17-21;Proverbs+30:16;Revelation+12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-ee75b3c23eb84729ba3ca9c6bff90ea3@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Bible Reading — Dec 23
+DESCRIPTION:OT: Hb 1-3\nPsalm: 146\nProverbs: 30:17\nNT: Re 13\nESV: https://www.esv.org/Hebrews+1-3\;Psalm+146\;Proverbs+30:17\;Revelation+13
+URL:https://www.esv.org/Hebrews+1-3;Psalm+146;Proverbs+30:17;Revelation+13
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-92abafca365444ca95dd83b393235318@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Bible Reading — Dec 24
+DESCRIPTION:OT: Zp 1-3\nPsalm: 147:1-6\nProverbs: 30:18-19\nNT: Re 14\nESV: https://www.esv.org/Zephaniah+1-3\;Psalm+147:1-6\;Proverbs+30:18-19\;Revelation+14
+URL:https://www.esv.org/Zephaniah+1-3;Psalm+147:1-6;Proverbs+30:18-19;Revelation+14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-967d8b02d05f40bb9c997d9da05e1417@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Bible Reading — Dec 25
+DESCRIPTION:OT: Hg 1-2\nPsalm: 147:7-11\nProverbs: 30:20\nNT: Re 15\nESV: https://www.esv.org/Haggai+1-2\;Psalm+147:7-11\;Proverbs+30:20\;Revelation+15
+URL:https://www.esv.org/Haggai+1-2;Psalm+147:7-11;Proverbs+30:20;Revelation+15
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-189f68c41ee94bc2b444d9f0c9685e53@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Bible Reading — Dec 26
+DESCRIPTION:OT: Zc 1-3\nPsalm: 147:12-20\nProverbs: 30:21-23\nNT: Re 16\nESV: https://www.esv.org/Zechariah+1-3\;Psalm+147:12-20\;Proverbs+30:21-23\;Revelation+16
+URL:https://www.esv.org/Zechariah+1-3;Psalm+147:12-20;Proverbs+30:21-23;Revelation+16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-a6a6d780d73540efa1f5251135b61221@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Bible Reading — Dec 27
+DESCRIPTION:OT: Zc 4-6\nPsalm: 148:1-6\nProverbs: 30:24-28\nNT: Re 17\nESV: https://www.esv.org/Zechariah+4-6\;Psalm+148:1-6\;Proverbs+30:24-28\;Revelation+17
+URL:https://www.esv.org/Zechariah+4-6;Psalm+148:1-6;Proverbs+30:24-28;Revelation+17
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-f12f7b0a57dc47aea5285f8e37da5cd7@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Bible Reading — Dec 28
+DESCRIPTION:OT: Zc 7-9\nPsalm: 148:7-14\nProverbs: 30:29-31\nNT: Re 18\nESV: https://www.esv.org/Zechariah+7-9\;Psalm+148:7-14\;Proverbs+30:29-31\;Revelation+18
+URL:https://www.esv.org/Zechariah+7-9;Psalm+148:7-14;Proverbs+30:29-31;Revelation+18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-0633223ba3a44ddb8d20bda5ffe1b94d@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Bible Reading — Dec 29
+DESCRIPTION:OT: Zc 10-12\nPsalm: 149:1-4\nProverbs: 30:32-33\nNT: Re 19\nESV: https://www.esv.org/Zechariah+10-12\;Psalm+149:1-4\;Proverbs+30:32-33\;Revelation+19
+URL:https://www.esv.org/Zechariah+10-12;Psalm+149:1-4;Proverbs+30:32-33;Revelation+19
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-1c6c8a7e072c43dc8481c3ab69a87e7b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Bible Reading — Dec 30
+DESCRIPTION:OT: Zc 13-14\nPsalm: 149:5-9\nProverbs: 31:1-9\nNT: Re 20\nESV: https://www.esv.org/Zechariah+13-14\;Psalm+149:5-9\;Proverbs+31:1-9\;Revelation+20
+URL:https://www.esv.org/Zechariah+13-14;Psalm+149:5-9;Proverbs+31:1-9;Revelation+20
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-557529cf4dea4da1811428a650671d0b@romans45-esv
+DTSTAMP:20260108T031706Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Bible Reading — Dec 31
+DESCRIPTION:OT: Ml 1-4\nPsalm: 150\nProverbs: 31:10-31\nNT: Re 21-22\nESV: https://www.esv.org/Malachi+1-4\;Psalm+150\;Proverbs+31:10-31\;Revelation+21-22
+URL:https://www.esv.org/Malachi+1-4;Psalm+150;Proverbs+31:10-31;Revelation+21-22
+END:VEVENT
+END:VCALENDAR
